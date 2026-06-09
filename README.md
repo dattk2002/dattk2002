@@ -1,30 +1,65 @@
-<img align="center" alt="Coding Guy-1" width="2000" src="https://github.com/biahudaom/biahudaom/blob/main/coding.svg"/>
-
-<h1 align="center">Hi, I'm Tran Kim Dat </h1>
-<h3 align="center">A passionate front-end developer from Vietnam</h3>
-<img align="right" alt="Coding Guy" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/76bd131b4aa3447eb9f9d0887972c066.gif"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biahudaom&label=Profile%20views&color=0e75b6&style=flat" alt="biahudaom" /> </p>
-
-- 🌱 I’m currently learning **ReactJS, MongoDB, Angular**
-
-- 🔭 I’m currently studying on **FPT University**
-
-- 💬 Ask me about **HTML, MERN, Angular**
-
-- 📫 How to reach me **kimdat0705@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/biahudaom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="biahudaom" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kim-đạt-030102253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kim-đạt-030102253" height="30" width="40" /></a>
-<a href="https://instagram.com/beerne._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beerne._" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dattk2002&show_icons=true&locale=en&layout=compact" alt="biahudaom" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dattk2002&show_icons=true&locale=en" alt="biahudaom" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dattk2002&" alt="biahudaom" /></p>
+<div align="center">
+# Tran Kim Dat
+ 
+**Front-end Developer** · Ho Chi Minh City, Vietnam
+ 
+[![Profile Views](https://komarev.com/ghpvc/?username=biahudaom&color=0e75b6&style=flat-square&label=profile+views)](https://github.com/biahudaom)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kim--đạt-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/kim-đạt-030102253)
+[![Facebook](https://img.shields.io/badge/Facebook-biahudaom-1877F2?style=flat-square&logo=facebook)](https://fb.com/biahudaom)
+[![Instagram](https://img.shields.io/badge/Instagram-beerne._-E4405F?style=flat-square&logo=instagram)](https://instagram.com/beerne._)
+ 
+</div>
+---
+ 
+## About me
+ 
+🎓 Studying at **FPT University** · Ho Chi Minh City  
+🌱 Currently learning **ReactJS · MongoDB · Angular**  
+💬 Ask me about **HTML · MERN stack · Angular**  
+📫 Reach me at **kimdat0705@gmail.com**
+ 
+---
+ 
+## Tech Stack
+ 
+**Frontend**
+ 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+ 
+**Backend & Database**
+ 
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+ 
+**Languages**
+ 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+ 
+**Tools**
+ 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+ 
+---
+ 
+## GitHub Stats
+ 
+<div align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=dattk2002&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=dattk2002&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dattk2002&hide_border=true&theme=default" alt="GitHub Streak" />
+</div>
+---
+ 
+<div align="center">
+  <sub>Made with ❤️ from Vietnam</sub>
+</div>
