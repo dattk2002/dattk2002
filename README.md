@@ -7,7 +7,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=biahudaom&color=0e75b6&style=flat-square&label=profile+views)](https://github.com/biahudaom)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kim--đạt-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/kim-đạt-030102253)
 [![Facebook](https://img.shields.io/badge/Facebook-biahudaom-1877F2?style=flat-square&logo=facebook)](https://fb.com/biahudaom)
-[![Instagram](https://img.shields.io/badge/Instagram-beerne._-E4405F?style=flat-square&logo=instagram)](https://instagram.com/beerne._)
+[![Instagram](https://img.shields.io/badge/Instagram-kdat.bia__-E4405F?style=flat-square&logo=instagram)](https://instagram.com/kdat.bia__)
 
 </div>
 
