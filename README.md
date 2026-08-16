@@ -15,7 +15,7 @@
 
 ## About me
 
-🎓 **FPT University** · Software Engineering · GPA 3.24/4.0  
+🎓 **FPT University** · Software Engineering · GPA 3.12/4.0  
 💼 Frontend-focused Full-Stack Developer · 2+ years production experience  
 🏢 E-commerce · CMS · Fintech  
 📫 Reach me at **kimdat0705@gmail.com**
