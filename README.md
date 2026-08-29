@@ -1,20 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0F172A,50:0369A1,100:22D3EE&text=Tran%20Kim%20Dat&fontColor=F8FAFC&fontSize=44&fontAlignY=38&desc=Backend-focused%20Full-stack%20Developer&descAlignY=59&descSize=20&animation=fadeIn" alt="Tran Kim Dat — Backend-focused Full-stack Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0F172A,50:0369A1,100:22D3EE&text=Tran%20Kim%20Dat&fontColor=F8FAFC&fontSize=44&fontAlignY=38&desc=Full-stack%20%26%20Mobile%20Developer&descAlignY=59&descSize=20&animation=fadeIn" alt="Tran Kim Dat — Full-stack and Mobile Developer" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=720&lines=Building+production-ready+web+and+mobile+experiences;Designing+APIs%2C+real-time+systems%2C+and+data+models;Turning+product+ideas+into+reliable+software" alt="Typing introduction" />
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=720&lines=Building+production-ready+web+and+mobile+products;Designing+reliable+APIs+and+real-time+systems;Owning+delivery+from+architecture+to+production" alt="Full-stack and mobile development focus" />
 </a>
 
 <p>
-  <a href="mailto:kimdat0705@gmail.com"><img src="https://img.shields.io/badge/Email-kimdat0705%40gmail.com-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:kimdat0705@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Tran Kim Dat" /></a>
   <a href="https://www.linkedin.com/in/kimdat0705"><img src="https://img.shields.io/badge/LinkedIn-kimdat0705-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/dattk2002"><img src="https://img.shields.io/badge/GitHub-dattk2002-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=dattk2002&label=Profile%20views&color=0ea5e9&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City%2C%20Vietnam-22D3EE?style=flat-square&logo=googlemaps&logoColor=white" alt="Ho Chi Minh City, Vietnam" />
+  <img src="https://img.shields.io/badge/Based_in-Da%20Nang%20%2F%20Ho%20Chi%20Minh%20City-22D3EE?style=flat-square&logo=googlemaps&logoColor=white" alt="Based in Da Nang and Ho Chi Minh City, Vietnam" />
   <img src="https://img.shields.io/badge/English-C2%20Proficient-38BDF8?style=flat-square" alt="English C2 Proficient" />
 </p>
 
@@ -22,43 +22,33 @@
 
 ## About me
 
-I'm a **backend-focused Full-stack Developer** with **3+ years of experience** delivering production web applications and cross-platform mobile experiences across e-commerce, CMS, booking, SaaS, education, and social products.
+I'm a **Full-stack and Mobile Developer** with **3+ years of experience** delivering production web applications and cross-platform mobile products across e-commerce, CMS, booking, SaaS, education, media, and social platforms.
 
-I enjoy owning the complete delivery path—from architecture and data modeling to polished interfaces, automated testing, containerization, and cloud deployment. I work comfortably across **Flutter, ASP.NET Core, NestJS, Next.js, React, and Laravel** ecosystems.
+I bring balanced ownership across responsive user interfaces, REST APIs, relational and NoSQL data models, real-time systems, automated testing, containerization, and cloud deployment. I'm comfortable moving from architecture and Figma handoff through implementation, integration, and production delivery.
 
-- Based in Ho Chi Minh City, Vietnam
+- Available to work from **Da Nang City** and **Ho Chi Minh City**, Vietnam
 - Software Engineering graduate from FPT University
-- Strong interest in backend systems, real-time experiences, and product engineering
-- Comfortable collaborating from Figma handoff through production delivery
-- Open to international Full-stack and Backend engineering opportunities
+- Experienced with web, mobile, backend, real-time, and cloud delivery
+- Comfortable working independently and collaborating closely with product, design, and engineering teams
+- Open to international Full-stack and Mobile Developer opportunities
 
 ## What I bring
 
-<table>
-<tr>
-<td width="33%" valign="top">
+### Full-stack product delivery
 
-### Backend & APIs
+I translate product requirements and interface designs into maintainable end-to-end solutions, connecting polished user experiences with reliable APIs, data models, authentication, and integrations.
 
-REST API design, authentication, RBAC, relational and NoSQL modeling, real-time communication, background processing, media workflows, and third-party integrations.
+### Cross-platform mobile development
 
-</td>
-<td width="33%" valign="top">
+I build Flutter experiences across mobile, web, and desktop targets, with attention to reusable UI, role-aware navigation, API-driven states, notifications, real-time features, and platform consistency.
 
-### Frontend & Mobile
+### Backend and real-time systems
 
-Responsive web applications, reusable design systems, role-aware dashboards, API-driven UI states, and cross-platform Flutter experiences.
+I design REST APIs, relational and NoSQL models, RBAC and authentication flows, real-time communication, background processing, media workflows, and integrations that are ready for production use.
 
-</td>
-<td width="33%" valign="top">
+### Quality, deployment, and ownership
 
-### Delivery & Quality
-
-Dockerized services, cloud deployment, automated testing, maintainable architecture, production debugging, and cross-functional ownership.
-
-</td>
-</tr>
-</table>
+I carry features through automated testing, Docker-based delivery, cloud deployment, debugging, and release coordination. I value clear communication, maintainable architecture, and measurable delivery.
 
 ## Technology toolkit
 
@@ -120,29 +110,31 @@ Dockerized services, cloud deployment, automated testing, maintainable architect
 <div align="center">
 
 <a href="https://github.com/dattk2002">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dattk2002&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Tran Kim Dat's GitHub statistics" />
-</a>
-<a href="https://github.com/dattk2002?tab=repositories">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dattk2002&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Most used languages" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dattk2002&theme=github_dark" alt="Tran Kim Dat's GitHub contribution summary" />
 </a>
 
-<br /><br />
+<a href="https://github.com/dattk2002?tab=repositories">
+  <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dattk2002&theme=github_dark" alt="Repositories by language" />
+</a>
+<a href="https://github.com/dattk2002">
+  <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dattk2002&theme=github_dark" alt="GitHub statistics" />
+</a>
 
 <a href="https://github.com/dattk2002">
-  <img src="https://streak-stats.demolab.com?user=dattk2002&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=dattk2002&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 </a>
 
 </div>
 
 ## Education & credentials
 
-- **B.Eng. in Software Engineering**, FPT University — graduated 2025
+- **Bachelor's degree in Software Engineering**, FPT University — graduated 2025
 - **EF SET English Certificate** — C2 Proficient, 78/100
 - Coursera specializations in Software Development Lifecycle, Computer Communications, Academic English Writing, and UX Research & Design
 
 ## Let's connect
 
-I'm interested in building reliable products with thoughtful engineering—from the API and data layer to the experience users interact with. If you are hiring, collaborating, or simply want to exchange ideas, feel free to reach out.
+I enjoy building reliable products with thoughtful engineering—from the interface and mobile experience to APIs, data, real-time communication, testing, and deployment. If you are hiring, collaborating, or simply want to exchange ideas, feel free to reach out.
 
 <div align="center">
 
@@ -155,7 +147,7 @@ I'm interested in building reliable products with thoughtful engineering—from 
 
 <br /><br />
 
-<sub>Built with curiosity, care, and a lot of coffee — from Vietnam 🇻🇳</sub>
+<sub>Building with curiosity, care, and clear communication — from Vietnam</sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0F172A,50:0369A1,100:22D3EE" alt="" />
 
