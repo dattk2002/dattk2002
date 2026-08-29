@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0F172A,50:0369A1,100:22D3EE&text=Tran%20Kim%20Dat&fontColor=F8FAFC&fontSize=44&fontAlignY=38&desc=Full-stack%20%26%20Mobile%20Developer&descAlignY=59&descSize=20&animation=fadeIn" alt="Tran Kim Dat — Full-stack and Mobile Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0F172A,50:0369A1,100:22D3EE&text=Tran%20Kim%20Dat&fontColor=F8FAFC&fontSize=44&fontAlignY=38&desc=Full-stack%20and%20Mobile%20Developer&descAlignY=59&descSize=20&animation=fadeIn" alt="Tran Kim Dat — Full-stack and Mobile Developer" />
 
 <a href="https://readme-typing-svg.demolab.com">
   <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=720&lines=Building+production-ready+web+and+mobile+products;Designing+reliable+APIs+and+real-time+systems;Owning+delivery+from+architecture+to+production" alt="Full-stack and mobile development focus" />
