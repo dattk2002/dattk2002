@@ -1,88 +1,162 @@
 <div align="center">
 
-# Tran Kim Dat
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0F172A,50:0369A1,100:22D3EE&text=Tran%20Kim%20Dat&fontColor=F8FAFC&fontSize=44&fontAlignY=38&desc=Backend-focused%20Full-stack%20Developer&descAlignY=59&descSize=20&animation=fadeIn" alt="Tran Kim Dat — Backend-focused Full-stack Developer" />
 
-**Front-end Developer** · Ho Chi Minh City, Vietnam
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=720&lines=Building+production-ready+web+and+mobile+experiences;Designing+APIs%2C+real-time+systems%2C+and+data+models;Turning+product+ideas+into+reliable+software" alt="Typing introduction" />
+</a>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=biahudaom&color=0e75b6&style=flat-square&label=profile+views)](https://github.com/biahudaom)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kim--đạt-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/kim-đạt-030102253)
-[![Facebook](https://img.shields.io/badge/Facebook-biahudaom-1877F2?style=flat-square&logo=facebook)](https://fb.com/biahudaom)
-[![Instagram](https://img.shields.io/badge/Instagram-kdat.bia__-E4405F?style=flat-square&logo=instagram)](https://instagram.com/kdat.bia__)
+<p>
+  <a href="mailto:kimdat0705@gmail.com"><img src="https://img.shields.io/badge/Email-kimdat0705%40gmail.com-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/kimdat0705"><img src="https://img.shields.io/badge/LinkedIn-kimdat0705-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/dattk2002"><img src="https://img.shields.io/badge/GitHub-dattk2002-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=dattk2002&label=Profile%20views&color=0ea5e9&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City%2C%20Vietnam-22D3EE?style=flat-square&logo=googlemaps&logoColor=white" alt="Ho Chi Minh City, Vietnam" />
+  <img src="https://img.shields.io/badge/English-C2%20Proficient-38BDF8?style=flat-square" alt="English C2 Proficient" />
+</p>
 
 </div>
-
----
 
 ## About me
 
-🎓 **FPT University** · Software Engineering · GPA 3.12/4.0  
-💼 Frontend-focused Full-Stack Developer · 3+ years production experience  
-🏢 E-commerce · CMS · Fintech  
-📫 Reach me at **kimdat0705@gmail.com**
+I'm a **backend-focused Full-stack Developer** with **3+ years of experience** delivering production web applications and cross-platform mobile experiences across e-commerce, CMS, booking, SaaS, education, and social products.
 
----
+I enjoy owning the complete delivery path—from architecture and data modeling to polished interfaces, automated testing, containerization, and cloud deployment. I work comfortably across **Flutter, ASP.NET Core, NestJS, Next.js, React, and Laravel** ecosystems.
 
-## Tech Stack
+- Based in Ho Chi Minh City, Vietnam
+- Software Engineering graduate from FPT University
+- Strong interest in backend systems, real-time experiences, and product engineering
+- Comfortable collaborating from Figma handoff through production delivery
+- Open to international Full-stack and Backend engineering opportunities
 
-**Frontend**
+## What I bring
 
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Backend & APIs
+
+REST API design, authentication, RBAC, relational and NoSQL modeling, real-time communication, background processing, media workflows, and third-party integrations.
+
+</td>
+<td width="33%" valign="top">
+
+### Frontend & Mobile
+
+Responsive web applications, reusable design systems, role-aware dashboards, API-driven UI states, and cross-platform Flutter experiences.
+
+</td>
+<td width="33%" valign="top">
+
+### Delivery & Quality
+
+Dockerized services, cloud deployment, automated testing, maintainable architecture, production debugging, and cross-functional ownership.
+
+</td>
+</tr>
+</table>
+
+## Technology toolkit
+
+<details open>
+<summary><b>Backend, APIs & Data</b></summary>
+<br />
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Frontend & Mobile</b></summary>
+<br />
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-0AE448?style=flat-square&logo=greensock&logoColor=black)
 
-**Backend & Database**
+</details>
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Tools & Infra**
+<details open>
+<summary><b>Cloud, Media & Engineering Tools</b></summary>
+<br />
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS Cognito](https://img.shields.io/badge/AWS%20Cognito-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
-**Languages**
+</details>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
----
-
-## GitHub Stats
+## GitHub activity
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dattk2002&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=dattk2002&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+<a href="https://github.com/dattk2002">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dattk2002&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Tran Kim Dat's GitHub statistics" />
+</a>
+<a href="https://github.com/dattk2002?tab=repositories">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dattk2002&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Most used languages" />
+</a>
 
-<br/>
+<br /><br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dattk2002&hide_border=true&theme=default" alt="GitHub Streak" />
+<a href="https://github.com/dattk2002">
+  <img src="https://streak-stats.demolab.com?user=dattk2002&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</a>
 
 </div>
 
----
+## Education & credentials
+
+- **B.Eng. in Software Engineering**, FPT University — graduated 2025
+- **EF SET English Certificate** — C2 Proficient, 78/100
+- Coursera specializations in Software Development Lifecycle, Computer Communications, Academic English Writing, and UX Research & Design
+
+## Let's connect
+
+I'm interested in building reliable products with thoughtful engineering—from the API and data layer to the experience users interact with. If you are hiring, collaborating, or simply want to exchange ideas, feel free to reach out.
 
 <div align="center">
-  <sub>Made with ❤️ from Vietnam</sub>
+
+<a href="mailto:kimdat0705@gmail.com">
+  <img src="https://img.shields.io/badge/Start_a_conversation-Email_me-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Tran Kim Dat" />
+</a>
+<a href="https://www.linkedin.com/in/kimdat0705">
+  <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+
+<br /><br />
+
+<sub>Built with curiosity, care, and a lot of coffee — from Vietnam 🇻🇳</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0F172A,50:0369A1,100:22D3EE" alt="" />
+
 </div>
