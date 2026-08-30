@@ -110,18 +110,18 @@ I carry features through automated testing, Docker-based delivery, cloud deploym
 <div align="center">
 
 <a href="https://github.com/dattk2002">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dattk2002&theme=github_dark" alt="Tran Kim Dat's GitHub contribution summary" />
+  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dattk2002&theme=github_dark" alt="Tran Kim Dat's GitHub contribution summary" />
 </a>
 
 <a href="https://github.com/dattk2002?tab=repositories">
-  <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dattk2002&theme=github_dark" alt="Repositories by language" />
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dattk2002&theme=github_dark" alt="Repositories by language" />
 </a>
 <a href="https://github.com/dattk2002">
-  <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dattk2002&theme=github_dark" alt="GitHub statistics" />
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dattk2002&theme=github_dark" alt="GitHub statistics" />
 </a>
 
 <a href="https://github.com/dattk2002">
-  <img width="100%" src="https://streak-stats.demolab.com?user=dattk2002&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+  <img width="495" src="https://streak-stats.demolab.com?user=dattk2002&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 </a>
 
 </div>
