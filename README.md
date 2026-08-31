@@ -114,20 +114,20 @@ I carry features through automated testing, Docker-based delivery, cloud deploym
 </a>
 
 <a href="https://github.com/dattk2002?tab=repositories">
-  <img width="347" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dattk2002&theme=github_dark" alt="Repositories by language" />
+  <img width="348" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dattk2002&theme=github_dark" alt="Repositories by language" />
 </a>
 <a href="https://github.com/dattk2002">
-  <img width="347" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dattk2002&theme=github_dark" alt="GitHub statistics" />
+  <img width="348" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dattk2002&theme=github_dark" alt="GitHub statistics" />
 </a>
 
 <a href="https://github.com/dattk2002">
-  <img width="230" src="https://streak-stats.demolab.com?user=dattk2002&theme=github-dark-blue&hide_border=false&border=30363D&background=0D1117&card_width=230&card_height=170&hide_current_streak=true&hide_longest_streak=true&disable_animations=true" alt="Total GitHub contributions" />
+  <img width="231" src="https://streak-stats.demolab.com?user=dattk2002&theme=github-dark-blue&hide_border=false&border=30363D&background=0D1117&card_width=231&card_height=170&hide_current_streak=true&hide_longest_streak=true&disable_animations=true" alt="Total GitHub contributions" />
 </a>
 <a href="https://github.com/dattk2002">
   <img width="230" src="https://streak-stats.demolab.com?user=dattk2002&theme=github-dark-blue&hide_border=false&border=30363D&background=0D1117&card_width=230&card_height=170&hide_total_contributions=true&hide_longest_streak=true&disable_animations=true" alt="Current GitHub contribution streak" />
 </a>
 <a href="https://github.com/dattk2002">
-  <img width="230" src="https://streak-stats.demolab.com?user=dattk2002&theme=github-dark-blue&hide_border=false&border=30363D&background=0D1117&card_width=230&card_height=170&hide_total_contributions=true&hide_current_streak=true&disable_animations=true" alt="Longest GitHub contribution streak" />
+  <img width="231" src="https://streak-stats.demolab.com?user=dattk2002&theme=github-dark-blue&hide_border=false&border=30363D&background=0D1117&card_width=231&card_height=170&hide_total_contributions=true&hide_current_streak=true&disable_animations=true" alt="Longest GitHub contribution streak" />
 </a>
 
 </div>
