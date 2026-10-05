@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0F172A,50:0369A1,100:22D3EE&text=Tran%20Kim%20Dat&fontColor=F8FAFC&fontSize=44&fontAlignY=38&desc=Full-stack%20and%20Mobile%20Developer&descAlignY=59&descSize=20&animation=fadeIn" alt="Tran Kim Dat — Full-stack and Mobile Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0F172A,50:0369A1,100:22D3EE&text=Tran%20Kim%20Dat&fontColor=F8FAFC&fontSize=44&fontAlignY=38&desc=Full-stack%20Engineer&descAlignY=59&descSize=20&animation=fadeIn" alt="Tran Kim Dat — Full-stack Engineer" />
 
 <a href="https://readme-typing-svg.demolab.com">
   <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=720&lines=Building+production-ready+web+and+mobile+products;Designing+reliable+APIs+and+real-time+systems;Owning+delivery+from+architecture+to+production" alt="Full-stack and mobile development focus" />
@@ -22,15 +22,17 @@
 
 ## About me
 
-I'm a **Full-stack and Mobile Developer** with **3+ years of experience** delivering production web applications and cross-platform mobile products across e-commerce, CMS, booking, SaaS, education, media, and social platforms.
+I'm a **Full-stack Engineer** with **3+ years of experience** delivering production web and cross-platform mobile applications with TypeScript, Python, C#, JavaScript, Dart, and SQL.
 
-I bring balanced ownership across responsive user interfaces, REST APIs, relational and NoSQL data models, real-time systems, automated testing, containerization, and cloud deployment. I'm comfortable moving from architecture and Figma handoff through implementation, integration, and production delivery.
+I build AI learning workflows that use **Gemini grounded search, Exa, and Tavily** to research sources and generate syllabi and lesson cores, with **Langfuse** for workflow tracing. My work spans REST APIs, relational data models, authentication, real-time systems, caching, rate limiting, and background processing with FastAPI, NestJS, ASP.NET Core, PostgreSQL, MongoDB, and Redis. I own architecture, automated testing, Docker containerization, GitHub Actions CI/CD, and cloud delivery on Render and Neon.
+
+[Explore my portfolio](https://www.dattk.dev) · [Download my latest CV](https://www.dattk.dev/api/cv)
 
 - Available to work from **Da Nang City** and **Ho Chi Minh City**, Vietnam
 - Software Engineering graduate from FPT University
 - Experienced with web, mobile, backend, real-time, and cloud delivery
 - Comfortable working independently and collaborating closely with product, design, and engineering teams
-- Open to international Full-stack and Mobile Developer opportunities
+- Open to international Full-stack Engineer opportunities
 
 ## What I bring
 
@@ -42,19 +44,52 @@ I translate product requirements and interface designs into maintainable end-to-
 
 I build Flutter experiences across mobile, web, and desktop targets, with attention to reusable UI, role-aware navigation, API-driven states, notifications, real-time features, and platform consistency.
 
+### AI research and learning workflows
+
+I connect research providers to source-grounded syllabus and lesson-core generation, trace AI workflows with Langfuse, and support practice with deterministic Python/SQL grading.
+
 ### Backend and real-time systems
 
 I design REST APIs, relational and NoSQL models, RBAC and authentication flows, real-time communication, background processing, media workflows, and integrations that are ready for production use.
 
 ### Quality, deployment, and ownership
 
-I carry features through automated testing, Docker-based delivery, cloud deployment, debugging, and release coordination. I value clear communication, maintainable architecture, and measurable delivery.
+I carry features through automated testing, Docker-based delivery, GitHub Actions CI/CD, cloud deployment on Render and Neon, debugging, and release coordination. I value clear communication, maintainable architecture, and measurable delivery.
+
+## Selected products
+
+### Bravodemy · Aug 2026–Present
+
+[Live product](https://bravodemy.com) · [Source](https://github.com/tkhieu/AIMicroLearningPlatform)
+
+Owned most of the architecture and end-to-end delivery of an AI microlearning platform that turns natural-language goals into source-grounded syllabi and lesson cores, followed by 5–10 minute lessons, practice, spaced review, and progress tracking.
+
+- Integrated Gemini grounded search, Exa, and Tavily for research and source context, with Langfuse tracing.
+- Built **107 FastAPI endpoints** and **35 SQLAlchemy models** for generation, learning paths, secure cookie authentication, admin/privacy tools, Polar entitlements, and deterministic Python/SQL grading.
+- Delivered a bilingual **Next.js 16/React 19** UI with Tailwind CSS, Radix UI, Recharts, GSAP, light/dark themes, and WCAG 2.2 AA checks.
+- Verified **192 backend tests at 85.11% coverage** and **151 frontend tests**; established CI for PostgreSQL 16, builds, accessibility, and responsive journeys across Chromium, Firefox, and WebKit.
+- Deployed independent UI/API services to **Render Singapore** with health-gated auto-deploys and **Neon PostgreSQL** pooled runtime/direct migration connections, plus fail-open Redis caching, rate limits, and distributed locks.
+
+### Other independent products
+
+- **[TapMood](https://github.com/dattk2002/tap-mood-ui)** · Jun–Jul 2026 — Flutter/ASP.NET Core 10 social check-ins for six platforms; 117 REST endpoints, 38 EF Core entities, 92 automated tests, SignalR, Firebase, Gemini, and resumable 250 MB video uploads with SHA-256 chunks and background H.264 processing. [API source](https://github.com/dattk2002/tap-mood-api)
+- **[HabiStride](https://habi-stride-ui.onrender.com)** · May–Jun 2026 — gamified Next.js/NestJS habit tracking; 24 REST handlers, seven controllers, ten TypeORM entities, Google OAuth2/HttpOnly JWTs, and daily Asia/Bangkok snapshots.
+- **[Trivia Quiz](https://trivia-app-elb2.onrender.com)** · Apr–May 2026 — Next.js/MongoDB gameplay with seven API handlers, server-side answer validation, duplicate-score protection, and one-hour session TTL cleanup.
+
+### Production and capstone work
+
+- **Dan Solutions · Oct 2025–May 2026:** TamdaCMS / TamdaOne — ten production features across five verticals and 12+ Strapi schemas; Caocao Adventures — tour browsing, rentals, and blog shipped within two months.
+- **NgoaiNguNgay · May–Sep 2025:** role-aware React/Vite language learning and tutor booking, SignalR messaging, 16 routes, and 79 component files.
+- **Dan Solutions · Dec 2023–Aug 2024:** Fastcare — frontend ownership and Laravel admin workflows across 20+ screens; VNCaps — 15+ role-aware school screens, timetable rendering, and Expo push notifications.
 
 ## Technology toolkit
 
 <details open>
 <summary><b>Backend, APIs & Data</b></summary>
 <br />
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
@@ -65,7 +100,6 @@ I carry features through automated testing, Docker-based delivery, cloud deploym
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
@@ -94,6 +128,12 @@ I carry features through automated testing, Docker-based delivery, cloud deploym
 <summary><b>Cloud, Media & Engineering Tools</b></summary>
 <br />
 
+![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
@@ -104,6 +144,14 @@ I carry features through automated testing, Docker-based delivery, cloud deploym
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
 </details>
+
+### AI / Research
+
+Gemini grounded search · Exa · Tavily · Langfuse · Source-grounded syllabus and lesson-core generation
+
+### Languages
+
+TypeScript · JavaScript · Python · C# · Java · Dart · SQL
 
 ## GitHub activity
 
@@ -134,7 +182,7 @@ I carry features through automated testing, Docker-based delivery, cloud deploym
 
 ## Education & credentials
 
-- **Bachelor's degree in Software Engineering**, FPT University — graduated 2025
+- **Bachelor's degree in Software Engineering**, FPT University — Sep 2021–Sep 2025, graduated, GPA 3.24/4
 - **EF SET English Certificate** — C2 Proficient, 78/100
 - Coursera specializations in Software Development Lifecycle, Computer Communications, Academic English Writing, and UX Research & Design
 
