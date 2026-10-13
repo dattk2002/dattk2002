@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 420" role="img" aria-labelledby="title description">
+  <title id="title">Tran Kim Dat — full-stack engineer</title>
+  <desc id="description">Editorial profile masthead reading: I build digital products from interface to infrastructure.</desc>
+
+  <defs>
+    <linearGradient id="ambient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7EA2B8" stop-opacity="0.10" />
+      <stop offset="0.58" stop-color="#090B0C" stop-opacity="0" />
+      <stop offset="1" stop-color="#C7F36B" stop-opacity="0.08" />
+    </linearGradient>
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64 0H0V64" fill="none" stroke="#2A3135" stroke-width="1" stroke-opacity="0.55" />
+    </pattern>
+    <style>
+      .sans { font-family: Geist, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+      .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="420" rx="18" fill="#090B0C" />
+  <rect width="1280" height="420" rx="18" fill="url(#grid)" />
+  <rect width="1280" height="420" rx="18" fill="url(#ambient)" />
+  <rect x="1" y="1" width="1278" height="418" rx="17" fill="none" stroke="#2A3135" stroke-width="2" />
+
+  <g transform="translate(42 34) scale(0.22)" fill="#C7F36B">
+    <path d="M0 0h38.17481v135.73264H0z" transform="translate(6.5553 7.9049)" />
+    <path d="M12.14652 0H0v34.31877h10.79691c17.93059-.3856 34.12596 12.91774 34.31877 32.19794.3856 7.71208-1.92802 15.42416-6.94088 21.59382-5.01285 6.16966-11.95373 12.91775-26.41388 13.30335H0v35.6684h12.53213c36.43958 0 70.95114-26.02829 70.95115-68.83034C83.48328 33.16196 54.37017 0 12.14652 0Z" transform="translate(59.383 6.9409)" />
+  </g>
+  <line x1="90" y1="34" x2="90" y2="67" stroke="#2A3135" />
+  <text x="108" y="48" class="mono" fill="#F1EFE7" font-size="12" letter-spacing="2.5">TRAN KIM DAT</text>
+  <text x="108" y="66" class="mono" fill="#70787D" font-size="9" letter-spacing="2">FULL-STACK ENGINEER · VIETNAM / UTC+7</text>
+
+  <g class="sans" fill="#F1EFE7" font-size="62" font-weight="650" letter-spacing="-2.8">
+    <text x="44" y="154">I BUILD DIGITAL PRODUCTS</text>
+    <text x="44" y="221">FROM INTERFACE</text>
+    <text x="44" y="288">TO INFRASTRUCTURE.</text>
+  </g>
+  <rect x="44" y="312" width="92" height="5" rx="2.5" fill="#C7F36B" />
+  <text x="154" y="318" class="mono" fill="#7EA2B8" font-size="10" letter-spacing="2.1">PRODUCT THINKING · SYSTEM OWNERSHIP · PRODUCTION DELIVERY</text>
+
+  <g transform="translate(944 96)">
+    <rect width="292" height="238" rx="12" fill="#101416" fill-opacity="0.92" stroke="#2A3135" />
+    <text x="24" y="34" class="mono" fill="#70787D" font-size="9" letter-spacing="2">SYSTEM MAP</text>
+    <circle cx="31" cy="69" r="5" fill="#C7F36B" />
+    <circle cx="31" cy="111" r="5" fill="#090B0C" stroke="#7EA2B8" stroke-width="2" />
+    <circle cx="31" cy="153" r="5" fill="#090B0C" stroke="#7EA2B8" stroke-width="2" />
+    <circle cx="31" cy="195" r="5" fill="#090B0C" stroke="#7EA2B8" stroke-width="2" />
+    <path d="M31 74V106M31 116V148M31 158V190" stroke="#2A3135" stroke-width="2" />
+    <g class="mono" font-size="11" letter-spacing="1.4">
+      <text x="52" y="73" fill="#F1EFE7">01  INTERFACE</text>
+      <text x="52" y="115" fill="#A7ADB0">02  APPLICATION</text>
+      <text x="52" y="157" fill="#A7ADB0">03  DATA</text>
+      <text x="52" y="199" fill="#A7ADB0">04  DELIVERY</text>
+    </g>
+  </g>
+
+  <line x1="44" y1="365" x2="1236" y2="365" stroke="#2A3135" />
+  <text x="44" y="390" class="mono" fill="#70787D" font-size="9" letter-spacing="1.8">WEB · MOBILE · APIs · REAL-TIME · CLOUD</text>
+  <text x="1236" y="390" class="mono" fill="#C7F36B" font-size="9" letter-spacing="1.8" text-anchor="end">BUILT WITH INTENTION</text>
+</svg>

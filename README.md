@@ -1,208 +1,71 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0F172A,50:0369A1,100:22D3EE&text=Tran%20Kim%20Dat&fontColor=F8FAFC&fontSize=44&fontAlignY=38&desc=Full-stack%20Engineer&descAlignY=59&descSize=20&animation=fadeIn" alt="Tran Kim Dat — Full-stack Engineer" />
-
-<a href="https://readme-typing-svg.demolab.com">
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=720&lines=Building+production-ready+web+and+mobile+products;Designing+reliable+APIs+and+real-time+systems;Owning+delivery+from+architecture+to+production" alt="Full-stack and mobile development focus" />
-</a>
-
-<p>
-  <a href="mailto:kimdat0705@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Tran Kim Dat" /></a>
-  <a href="https://www.linkedin.com/in/kimdat0705"><img src="https://img.shields.io/badge/LinkedIn-kimdat0705-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/dattk2002"><img src="https://img.shields.io/badge/GitHub-dattk2002-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<p align="center">
+  <img src="./assets/profile-masthead.svg" width="100%" alt="Tran Kim Dat — I build digital products from interface to infrastructure." />
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=dattk2002&label=Profile%20views&color=0ea5e9&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Based_in-Da%20Nang%20%2F%20Ho%20Chi%20Minh%20City-22D3EE?style=flat-square&logo=googlemaps&logoColor=white" alt="Based in Da Nang and Ho Chi Minh City, Vietnam" />
-  <img src="https://img.shields.io/badge/English-C2%20Proficient-38BDF8?style=flat-square" alt="English C2 Proficient" />
+<p align="center">
+  <a href="https://www.dattk.dev"><strong>Portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.dattk.dev/api/cv"><strong>CV</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/kimdat0705"><strong>LinkedIn</strong></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:kimdat0705@gmail.com"><strong>Email</strong></a>
 </p>
 
-</div>
+I am a product-focused full-stack engineer in Vietnam with 3+ years of experience across production web and cross-platform mobile products. I work where the layers meet: turning a product requirement into an interface, the systems behind it, and a release that can be operated with confidence.
 
-## About me
+My range spans TypeScript, Python, C#, Dart, and SQL; React, Next.js, Flutter, FastAPI, NestJS, and ASP.NET Core; PostgreSQL, MongoDB, Redis, real-time systems, automated testing, containers, CI, and cloud delivery.
 
-I'm a **Full-stack Engineer** with **3+ years of experience** delivering production web and cross-platform mobile applications with TypeScript, Python, C#, JavaScript, Dart, and SQL.
+## Building now
 
-I build AI learning workflows that use **Gemini grounded search, Exa, and Tavily** to research sources and generate syllabi and lesson cores, with **Langfuse** for workflow tracing. My work spans REST APIs, relational data models, authentication, real-time systems, caching, rate limiting, and background processing with FastAPI, NestJS, ASP.NET Core, PostgreSQL, MongoDB, and Redis. I own architecture, automated testing, Docker containerization, GitHub Actions CI/CD, and cloud delivery on Render and Neon.
+### [Bravodemy](https://bravodemy.com) — learning systems grounded in sources
 
-[Explore my portfolio](https://www.dattk.dev) · [Download my latest CV](https://www.dattk.dev/api/cv)
+An AI microlearning platform that turns a natural-language goal into a researched syllabus, focused 5–10 minute lessons, practice, spaced review, and visible progress.
 
-- Available to work from **Da Nang City** and **Ho Chi Minh City**, Vietnam
-- Software Engineering graduate from FPT University
-- Experienced with web, mobile, backend, real-time, and cloud delivery
-- Comfortable working independently and collaborating closely with product, design, and engineering teams
-- Open to international Full-stack Engineer opportunities
+`goal` → `grounded research` → `learning path` → `practice` → `review`
 
-## What I bring
+I own most of the architecture and end-to-end delivery: a bilingual Next.js interface, 107 FastAPI endpoints, 35 SQLAlchemy models, Gemini/Exa/Tavily research workflows, deterministic Python and SQL grading, Langfuse tracing, automated test suites, and production delivery on Render and Neon.
 
-### Full-stack product delivery
+[View the product](https://bravodemy.com)
 
-I translate product requirements and interface designs into maintainable end-to-end solutions, connecting polished user experiences with reliable APIs, data models, authentication, and integrations.
+## Selected systems
 
-### Cross-platform mobile development
+### [TapMood](https://github.com/dattk2002/tap-mood-ui)
 
-I build Flutter experiences across mobile, web, and desktop targets, with attention to reusable UI, role-aware navigation, API-driven states, notifications, real-time features, and platform consistency.
+A real-time social check-in product built across Flutter and ASP.NET Core. The system includes SignalR, Firebase notifications, Gemini-assisted features, and resumable media uploads with background video processing.
 
-### AI research and learning workflows
+[Interface source](https://github.com/dattk2002/tap-mood-ui) · [API source](https://github.com/dattk2002/tap-mood-api)
 
-I connect research providers to source-grounded syllabus and lesson-core generation, trace AI workflows with Langfuse, and support practice with deterministic Python/SQL grading.
+### [HabiStride](https://habi-stride-ui.onrender.com)
 
-### Backend and real-time systems
+A gamified habit tracker built with Next.js and NestJS, including Google OAuth, HttpOnly authentication, streak logic, leaderboards, and daily timezone-aware snapshots.
 
-I design REST APIs, relational and NoSQL models, RBAC and authentication flows, real-time communication, background processing, media workflows, and integrations that are ready for production use.
+[Live product](https://habi-stride-ui.onrender.com) · [Interface source](https://github.com/dattk2002/habi-stride-ui) · [API source](https://github.com/dattk2002/habi-stride-api)
 
-### Quality, deployment, and ownership
+### [dattk.dev](https://www.dattk.dev)
 
-I carry features through automated testing, Docker-based delivery, GitHub Actions CI/CD, cloud deployment on Render and Neon, debugging, and release coordination. I value clear communication, maintainable architecture, and measurable delivery.
+My portfolio is also a working product: ten evidence-led case studies, live GitHub activity, an accessible gesture-based project explorer, a two-way contact workflow, and a localized publishing system backed by Neon Postgres.
 
-## Selected products
+[Visit the portfolio](https://www.dattk.dev) · [Explore the source](https://github.com/dattk2002/dattk2002-portfolio-nextjs)
 
-### Bravodemy · Aug 2026–Present
+## How I ship
 
-[Live product](https://bravodemy.com) · [Source](https://github.com/tkhieu/AIMicroLearningPlatform)
+- **Interface:** responsive web and cross-platform mobile experiences, designed around real product states rather than isolated screens.
+- **Application:** typed APIs, authentication, role-aware workflows, background work, integrations, and real-time communication.
+- **Data:** relational and document models, migrations, caching, rate limits, and operationally safe access patterns.
+- **Delivery:** automated tests, accessibility checks, Docker, GitHub Actions, observability, and cloud deployment.
 
-Owned most of the architecture and end-to-end delivery of an AI microlearning platform that turns natural-language goals into source-grounded syllabi and lesson cores, followed by 5–10 minute lessons, practice, spaced review, and progress tracking.
+I care about clear ownership, maintainable architecture, and evidence that a feature works outside the happy path.
 
-- Integrated Gemini grounded search, Exa, and Tavily for research and source context, with Langfuse tracing.
-- Built **107 FastAPI endpoints** and **35 SQLAlchemy models** for generation, learning paths, secure cookie authentication, admin/privacy tools, Polar entitlements, and deterministic Python/SQL grading.
-- Delivered a bilingual **Next.js 16/React 19** UI with Tailwind CSS, Radix UI, Recharts, GSAP, light/dark themes, and WCAG 2.2 AA checks.
-- Verified **192 backend tests at 85.11% coverage** and **151 frontend tests**; established CI for PostgreSQL 16, builds, accessibility, and responsive journeys across Chromium, Firefox, and WebKit.
-- Deployed independent UI/API services to **Render Singapore** with health-gated auto-deploys and **Neon PostgreSQL** pooled runtime/direct migration connections, plus fail-open Redis caching, rate limits, and distributed locks.
+## Beyond the code
 
-### Other independent products
+- Software Engineering graduate from FPT University.
+- EF SET English Certificate: C2 Proficient, 78/100.
+- Based in Vietnam; available in Da Nang, Ho Chi Minh City, and remotely.
+- Open to international full-stack engineering opportunities and product collaborations.
 
-- **[TapMood](https://github.com/dattk2002/tap-mood-ui)** · Jun–Jul 2026 — Flutter/ASP.NET Core 10 social check-ins for six platforms; 117 REST endpoints, 38 EF Core entities, 92 automated tests, SignalR, Firebase, Gemini, and resumable 250 MB video uploads with SHA-256 chunks and background H.264 processing. [API source](https://github.com/dattk2002/tap-mood-api)
-- **[HabiStride](https://habi-stride-ui.onrender.com)** · May–Jun 2026 — gamified Next.js/NestJS habit tracking; 24 REST handlers, seven controllers, ten TypeORM entities, Google OAuth2/HttpOnly JWTs, and daily Asia/Bangkok snapshots.
-- **[Trivia Quiz](https://trivia-app-elb2.onrender.com)** · Apr–May 2026 — Next.js/MongoDB gameplay with seven API handlers, server-side answer validation, duplicate-score protection, and one-hour session TTL cleanup.
+## Start a conversation
 
-### Production and capstone work
+For work, collaboration, or a thoughtful exchange about building products:
 
-- **Dan Solutions · Oct 2025–May 2026:** TamdaCMS / TamdaOne — ten production features across five verticals and 12+ Strapi schemas; Caocao Adventures — tour browsing, rentals, and blog shipped within two months.
-- **NgoaiNguNgay · May–Sep 2025:** role-aware React/Vite language learning and tutor booking, SignalR messaging, 16 routes, and 79 component files.
-- **Dan Solutions · Dec 2023–Aug 2024:** Fastcare — frontend ownership and Laravel admin workflows across 20+ screens; VNCaps — 15+ role-aware school screens, timetable rendering, and Expo push notifications.
-
-## Technology toolkit
-
-<details open>
-<summary><b>Backend, APIs & Data</b></summary>
-<br />
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>Frontend & Mobile</b></summary>
-<br />
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-0AE448?style=flat-square&logo=greensock&logoColor=black)
-
-</details>
-
-<details open>
-<summary><b>Cloud, Media & Engineering Tools</b></summary>
-<br />
-
-![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-
-</details>
-
-### AI / Research
-
-Gemini grounded search · Exa · Tavily · Langfuse · Source-grounded syllabus and lesson-core generation
-
-### Languages
-
-TypeScript · JavaScript · Python · C# · Java · Dart · SQL
-
-## GitHub activity
-
-<div align="center">
-
-<a href="https://github.com/dattk2002">
-  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dattk2002&theme=github_dark" alt="Tran Kim Dat's GitHub contribution summary" />
-</a>
-
-<a href="https://github.com/dattk2002?tab=repositories">
-  <img width="348" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dattk2002&theme=github_dark" alt="Repositories by language" />
-</a>
-<a href="https://github.com/dattk2002">
-  <img width="348" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dattk2002&theme=github_dark" alt="GitHub statistics" />
-</a>
-
-<a href="https://github.com/dattk2002">
-  <img width="231" src="https://streak-stats.demolab.com?user=dattk2002&theme=github-dark-blue&hide_border=false&border=30363D&background=0D1117&card_width=231&card_height=170&hide_current_streak=true&hide_longest_streak=true&disable_animations=true" alt="Total GitHub contributions" />
-</a>
-<a href="https://github.com/dattk2002">
-  <img width="230" src="https://streak-stats.demolab.com?user=dattk2002&theme=github-dark-blue&hide_border=false&border=30363D&background=0D1117&card_width=230&card_height=170&hide_total_contributions=true&hide_longest_streak=true&disable_animations=true" alt="Current GitHub contribution streak" />
-</a>
-<a href="https://github.com/dattk2002">
-  <img width="231" src="https://streak-stats.demolab.com?user=dattk2002&theme=github-dark-blue&hide_border=false&border=30363D&background=0D1117&card_width=231&card_height=170&hide_total_contributions=true&hide_current_streak=true&disable_animations=true" alt="Longest GitHub contribution streak" />
-</a>
-
-</div>
-
-## Education & credentials
-
-- **Bachelor's degree in Software Engineering**, FPT University — Sep 2021–Sep 2025, graduated, GPA 3.24/4
-- **EF SET English Certificate** — C2 Proficient, 78/100
-- Coursera specializations in Software Development Lifecycle, Computer Communications, Academic English Writing, and UX Research & Design
-
-## Let's connect
-
-I enjoy building reliable products with thoughtful engineering—from the interface and mobile experience to APIs, data, real-time communication, testing, and deployment. If you are hiring, collaborating, or simply want to exchange ideas, feel free to reach out.
-
-<div align="center">
-
-<a href="mailto:kimdat0705@gmail.com">
-  <img src="https://img.shields.io/badge/Start_a_conversation-Email_me-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Tran Kim Dat" />
-</a>
-<a href="https://www.linkedin.com/in/kimdat0705">
-  <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-</a>
-
-<br /><br />
-
-<sub>Building with curiosity, care, and clear communication — from Vietnam</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0F172A,50:0369A1,100:22D3EE" alt="" />
-
-</div>
+**[kimdat0705@gmail.com](mailto:kimdat0705@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/kimdat0705)** · **[dattk.dev](https://www.dattk.dev)**
