@@ -1,0 +1,41 @@
+name: Update profile cards
+
+on:
+  schedule:
+    - cron: '23 2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - uses: actions/setup-node@249970729cb0ef3589644e2896645e5dc5ba9c38 # v6
+        with:
+          node-version: '24'
+      - name: Verify calculations and failure handling
+        run: npm test
+      - name: Refresh cards from GitHub
+        env:
+          GH_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN || github.token }}
+        run: npm run cards
+      - name: Commit generated output only
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- README.md assets/github-data.json assets/github-stats.svg assets/github-stats-wide.svg assets/github-stats-tablet.svg assets/github-stats-mobile.svg assets/github-activity.svg assets/github-activity-wide.svg assets/github-activity-tablet.svg assets/github-activity-mobile.svg assets/tech-stack.svg assets/tech-stack-wide.svg assets/tech-stack-tablet.svg assets/tech-stack-mobile.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m 'chore: refresh profile cards'
+          git push origin HEAD
