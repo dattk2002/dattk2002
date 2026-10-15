@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 288" role="img" aria-labelledby="title" aria-describedby="desc">
+  <title id="title">Tran Kim Dat — full-stack engineer</title>
+  <desc id="desc">I build digital products from interface to infrastructure. Product thinking, system ownership and production delivery.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#2A3135" stroke-opacity="0.35"/></pattern>
+    <linearGradient id="ambient" x2="1" y2="1"><stop stop-color="#7EA2B8" stop-opacity="0.10"/><stop offset="1" stop-color="#C7F36B" stop-opacity="0.06"/></linearGradient>
+  </defs>
+  <style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:Consolas,'Liberation Mono',monospace}</style>
+  <rect x="1" y="1" width="318" height="286" rx="16" fill="#090B0C" stroke="#2A3135"/>
+  <rect x="1" y="1" width="318" height="286" rx="16" fill="url(#grid)"/>
+  <rect x="1" y="1" width="318" height="286" rx="16" fill="url(#ambient)"/>
+  <g transform="translate(20 22) scale(0.14)" fill="#C7F36B">
+    <path d="M0 0h38.17481v135.73264H0z" transform="translate(6.5553 7.9049)"/>
+    <path d="M12.14652 0H0v34.31877h10.79691c17.93059-.3856 34.12596 12.91774 34.31877 32.19794.3856 7.71208-1.92802 15.42416-6.94088 21.59382-5.01285 6.16966-11.95373 12.91775-26.41388 13.30335H0v35.6684h12.53213c36.43958 0 70.95114-26.02829 70.95115-68.83034C83.48328 33.16196 54.37017 0 12.14652 0Z" transform="translate(59.383 6.9409)"/>
+  </g>
+  <text x="55" y="31" class="mono" fill="#F1EFE7" font-size="12" letter-spacing="1.4">TRAN KIM DAT</text>
+  <text x="55" y="48" class="mono" fill="#A7ADB0" font-size="10">FULL-STACK ENGINEER · UTC+7</text>
+  <g fill="#F1EFE7" font-weight="700" letter-spacing="-0.8">
+    <text x="20" y="105" font-size="20">I BUILD DIGITAL PRODUCTS</text>
+    <text x="20" y="142" font-size="29">FROM INTERFACE</text>
+    <text x="20" y="179" font-size="24">TO INFRASTRUCTURE.</text>
+  </g>
+  <rect x="20" y="199" width="46" height="3" rx="1.5" fill="#C7F36B"/>
+  <text x="20" y="231" class="mono" fill="#7EA2B8" font-size="12">PRODUCT THINKING · SYSTEM OWNERSHIP</text>
+  <text x="20" y="253" class="mono" fill="#A7ADB0" font-size="12">PRODUCTION DELIVERY</text>
+</svg>
