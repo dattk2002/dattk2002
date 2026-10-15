@@ -105,17 +105,12 @@ My portfolio is also a working product: ten evidence-led case studies, live GitH
 
 <p>
   <picture>
-    <source media="(max-width: 479px), (min-width: 768px) and (max-width: 879px)" srcset="./assets/tech-stack-mobile.svg" />
-    <source media="(max-width: 1100px)" srcset="./assets/tech-stack-wide.svg" />
-    <source media="(max-width: 1439px)" srcset="./assets/tech-stack-tablet.svg" />
-    <img src="./assets/tech-stack.svg" width="100%" alt="Tech stack — Web: TypeScript, React, Next.js, Tailwind CSS. Mobile: Flutter, React Native, Expo. Backend: Python, FastAPI, NestJS, ASP.NET Core. Data: PostgreSQL, MongoDB, Redis. AI: Gemini, Exa, Tavily, Langfuse. Delivery and quality: Docker, GitHub Actions, Render, Neon, Vercel, Playwright." />
+    <source media="(max-width: 479px), (min-width: 768px) and (max-width: 879px)" srcset="./assets/how-i-ship-mobile.svg" />
+    <source media="(max-width: 1100px)" srcset="./assets/how-i-ship-wide.svg" />
+    <source media="(max-width: 1439px)" srcset="./assets/how-i-ship-tablet.svg" />
+    <img src="./assets/how-i-ship.svg" width="100%" alt="Tech stack — TypeScript, JavaScript, Python, C#, Dart, PHP, SQL, React, Next.js, Vite, Tailwind CSS, shadcn/ui, Ant Design, Radix UI, GSAP, Flutter, React Native, Expo, FastAPI, NestJS, ASP.NET Core, Laravel, Strapi, SignalR, PostgreSQL, MongoDB, Redis, SQLAlchemy, Drizzle ORM, TypeORM, EF Core, Firebase, Gemini, Exa, Tavily, Langfuse, Docker, GitHub Actions, Render, Neon, Vercel, Cloudinary, FFmpeg, Resend, Upstash, Pytest, Vitest, Playwright." />
   </picture>
 </p>
-
-- **Interface:** responsive web and cross-platform mobile experiences, designed around real product states rather than isolated screens.
-- **Application:** typed APIs, authentication, role-aware workflows, background work, integrations, and real-time communication.
-- **Data:** relational and document models, migrations, caching, rate limits, and operationally safe access patterns.
-- **Delivery:** automated tests, accessibility checks, Docker, GitHub Actions, observability, and cloud deployment.
 
 I care about clear ownership, maintainable architecture, and evidence that a feature works outside the happy path.
 
