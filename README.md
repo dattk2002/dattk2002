@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/profile-masthead.svg" width="100%" alt="Tran Kim Dat — I build digital products from interface to infrastructure." />
+  <picture>
+    <source media="(max-width: 479px), (min-width: 768px) and (max-width: 879px)" srcset="./assets/profile-masthead-mobile.svg" />
+    <source media="(max-width: 1100px)" srcset="./assets/profile-masthead-wide.svg" />
+    <img src="./assets/profile-masthead.svg" width="100%" alt="Tran Kim Dat — I build digital products from interface to infrastructure." />
+  </picture>
 </p>
 
 <p align="center">
@@ -15,6 +19,55 @@
 I am a product-focused full-stack engineer in Vietnam with 3+ years of experience across production web and cross-platform mobile products. I work where the layers meet: turning a product requirement into an interface, the systems behind it, and a release that can be operated with confidence.
 
 My range spans TypeScript, Python, C#, Dart, and SQL; React, Next.js, Flutter, FastAPI, NestJS, and ASP.NET Core; PostgreSQL, MongoDB, Redis, real-time systems, automated testing, containers, CI, and cloud delivery.
+
+## GitHub activity
+
+<p>
+  <a href="https://github.com/dattk2002?tab=overview">
+    <picture>
+      <source media="(max-width: 479px), (min-width: 768px) and (max-width: 879px)" srcset="./assets/github-stats-mobile.svg" />
+      <source media="(max-width: 1100px)" srcset="./assets/github-stats-wide.svg" />
+      <source media="(max-width: 1439px)" srcset="./assets/github-stats-tablet.svg" />
+      <img src="./assets/github-stats.svg" width="100%" alt="GitHub stats, including shared private contributions, and most used languages. Detailed numbers and data scope are available below." />
+    </picture>
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/dattk2002?tab=overview">
+    <picture>
+      <source media="(max-width: 479px), (min-width: 768px) and (max-width: 879px)" srcset="./assets/github-activity-mobile.svg" />
+      <source media="(max-width: 1100px)" srcset="./assets/github-activity-wide.svg" />
+      <source media="(max-width: 1439px)" srcset="./assets/github-activity-tablet.svg" />
+      <img src="./assets/github-activity.svg" width="100%" alt="All-time contributions, current streak, longest streak and the past twelve months of GitHub activity. Text equivalent below." />
+    </picture>
+  </a>
+</p>
+
+<!-- PROFILE-STATS:START -->
+<details>
+<summary>Activity in numbers · updated 2026-10-16</summary>
+
+| Metric | Value | Scope |
+| --- | ---: | --- |
+| All-time contributions | 1,871 | Since 2016-07-25 |
+| Contributions | 1,220 | 2025-10-17 to 2026-10-16 |
+| Current streak | 6 days | Oct 10 – Oct 15, 2026 |
+| Longest streak | 11 days | Oct 15 – Oct 25, 2025 |
+| Active days | 182 | Days with at least one contribution in the past 12 months |
+| Contributions in the last 30 days | 343 | 2026-09-17 to 2026-10-16 |
+| Most contributions in a day | 81 | 2026-10-12; past 12 months |
+
+**Languages by public code volume:** JavaScript 41.8% · TypeScript 19.8% · Dart 13.2% · C# 7.8% · SCSS 7.3% · HTML 4.5% · Other 5.6%.
+
+Language shares measure code bytes across 34 original public repositories, including archives. Forks and this generated profile repository are excluded. These are code proportions, not proficiency scores.
+
+These statistics use GitHub's contribution calendar, including private counts when shared. The owner primarily works in private repositories; 1,124 contributions in this period have restricted details. Private repository names and content remain private.
+
+Streaks use GitHub's daily calendar buckets and UTC+7 to determine today. A day still in progress does not break yesterday's streak. [Data sources and update method](./docs/profile-cards.md).
+
+</details>
+<!-- PROFILE-STATS:END -->
 
 ## Building now
 
@@ -49,6 +102,15 @@ My portfolio is also a working product: ten evidence-led case studies, live GitH
 [Visit the portfolio](https://www.dattk.dev) · [Explore the source](https://github.com/dattk2002/dattk2002-portfolio-nextjs)
 
 ## How I ship
+
+<p>
+  <picture>
+    <source media="(max-width: 479px), (min-width: 768px) and (max-width: 879px)" srcset="./assets/tech-stack-mobile.svg" />
+    <source media="(max-width: 1100px)" srcset="./assets/tech-stack-wide.svg" />
+    <source media="(max-width: 1439px)" srcset="./assets/tech-stack-tablet.svg" />
+    <img src="./assets/tech-stack.svg" width="100%" alt="Tech stack — Web: TypeScript, React, Next.js, Tailwind CSS. Mobile: Flutter, React Native, Expo. Backend: Python, FastAPI, NestJS, ASP.NET Core. Data: PostgreSQL, MongoDB, Redis. AI: Gemini, Exa, Tavily, Langfuse. Delivery and quality: Docker, GitHub Actions, Render, Neon, Vercel, Playwright." />
+  </picture>
+</p>
 
 - **Interface:** responsive web and cross-platform mobile experiences, designed around real product states rather than isolated screens.
 - **Application:** typed APIs, authentication, role-aware workflows, background work, integrations, and real-time communication.
