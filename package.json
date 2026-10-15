@@ -1,0 +1,13 @@
+{
+  "name": "dattk2002-github-profile",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "cards": "node scripts/update-profile.mjs",
+    "cards:render": "node scripts/update-profile.mjs --render",
+    "preview": "node scripts/preview-profile.mjs",
+    "preview:build": "node scripts/preview-profile.mjs --build"
+  }
+}
