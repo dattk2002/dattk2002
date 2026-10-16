@@ -50,19 +50,19 @@ My range spans TypeScript, Python, C#, Dart, and SQL; React, Next.js, Flutter, F
 
 | Metric | Value | Scope |
 | --- | ---: | --- |
-| All-time contributions | 1,871 | Since 2016-07-25 |
-| Contributions | 1,220 | 2025-10-17 to 2026-10-16 |
-| Current streak | 6 days | Oct 10 – Oct 15, 2026 |
+| All-time contributions | 1,956 | Since 2016-07-25 |
+| Contributions | 1,305 | 2025-10-17 to 2026-10-16 |
+| Current streak | 7 days | Oct 10 – Oct 16, 2026 |
 | Longest streak | 11 days | Oct 15 – Oct 25, 2025 |
-| Active days | 182 | Days with at least one contribution in the past 12 months |
-| Contributions in the last 30 days | 343 | 2026-09-17 to 2026-10-16 |
+| Active days | 184 | Days with at least one contribution in the past 12 months |
+| Contributions in the last 30 days | 428 | 2026-09-17 to 2026-10-16 |
 | Most contributions in a day | 81 | 2026-10-12; past 12 months |
 
 **Languages by public code volume:** JavaScript 41.8% · TypeScript 19.8% · Dart 13.2% · C# 7.8% · SCSS 7.3% · HTML 4.5% · Other 5.6%.
 
 Language shares measure code bytes across 34 original public repositories, including archives. Forks and this generated profile repository are excluded. These are code proportions, not proficiency scores.
 
-These statistics use GitHub's contribution calendar, including private counts when shared. The owner primarily works in private repositories; 1,124 contributions in this period have restricted details. Private repository names and content remain private.
+These statistics use GitHub's contribution calendar, including private counts when shared. The owner primarily works in private repositories; 1,194 contributions in this period have restricted details. Private repository names and content remain private.
 
 Streaks use GitHub's daily calendar buckets and UTC+7 to determine today. A day still in progress does not break yesterday's streak. [Data sources and update method](./docs/profile-cards.md).
 
