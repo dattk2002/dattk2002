@@ -77,7 +77,7 @@ An AI microlearning platform that turns a natural-language goal into a researche
 
 `goal` → `grounded research` → `learning path` → `practice` → `review`
 
-I own most of the architecture and end-to-end delivery: a bilingual Next.js interface, 107 FastAPI endpoints, 35 SQLAlchemy models, Gemini/Exa/Tavily research workflows, deterministic Python and SQL grading, Langfuse tracing, automated test suites, and production delivery on Render and Neon.
+I own most of the architecture and end-to-end delivery: a bilingual Next.js interface, 107 FastAPI endpoints, 35 SQLAlchemy models, Gemini Grounded Search, Exa, and Tavily research workflows, deterministic Python and SQL grading, Langfuse tracing, automated test suites, and production delivery on Render and Neon.
 
 [View the product](https://bravodemy.com)
 
@@ -108,9 +108,11 @@ My portfolio is also a working product: ten evidence-led case studies, live GitH
     <source media="(max-width: 479px), (min-width: 768px) and (max-width: 879px)" srcset="./assets/how-i-ship-mobile.svg" />
     <source media="(max-width: 1100px)" srcset="./assets/how-i-ship-wide.svg" />
     <source media="(max-width: 1439px)" srcset="./assets/how-i-ship-tablet.svg" />
-    <img src="./assets/how-i-ship.svg" width="100%" alt="Tech stack — TypeScript, JavaScript, Python, C#, Dart, PHP, SQL, React, Next.js, Vite, Tailwind CSS, shadcn/ui, Ant Design, Radix UI, GSAP, Flutter, React Native, Expo, FastAPI, NestJS, ASP.NET Core, Laravel, Strapi, SignalR, PostgreSQL, MongoDB, Redis, SQLAlchemy, Drizzle ORM, TypeORM, EF Core, Firebase, Gemini, Exa, Tavily, Langfuse, Docker, GitHub Actions, Render, Neon, Vercel, Cloudinary, FFmpeg, Resend, Upstash, Pytest, Vitest, Playwright." />
+    <img src="./assets/how-i-ship.svg" width="100%" alt="Tech stack — TypeScript, JavaScript, Python, C#, Dart, PHP, SQL, React, Next.js, Vite, Tailwind CSS, shadcn/ui, Ant Design, Radix UI, GSAP (UI motion), Flutter, React Native, Expo (Mobile + push), FastAPI, NestJS, ASP.NET Core, Laravel, Strapi (Headless CMS), SignalR (Real-time chat), PostgreSQL, MongoDB, Redis (Cache + limits), SQLAlchemy (Python ORM), Drizzle ORM (Publishing ORM), TypeORM (NestJS ORM), EF Core (.NET ORM), Firebase (Push messaging), Gemini Grounded Search (API key from Google AI Studio), Exa (Web research), Tavily (Source search), Langfuse (AI tracing), Docker (App containers), GitHub Actions (CI checks), Render (App hosting), Neon (Postgres + Auth), Vercel (Blob uploads), Cloudinary (Media delivery), FFmpeg (Video processing), Resend (Contact emails), Upstash (Rate limiting), Pytest (API tests), Vitest (Frontend tests), Playwright (Browser tests)." />
   </picture>
 </p>
+
+**Gemini Grounded Search:** grounding with Google Search through the Gemini API, using an API key created in [Google AI Studio](https://aistudio.google.com/apikey).
 
 I care about clear ownership, maintainable architecture, and evidence that a feature works outside the happy path.
 
