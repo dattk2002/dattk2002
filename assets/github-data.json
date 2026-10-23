@@ -1,70 +1,66 @@
 {
   "version": 2,
   "username": "dattk2002",
-  "generatedAt": "2026-10-22T07:45:37.476Z",
-  "asOf": "2026-10-22",
+  "generatedAt": "2026-10-23T07:43:19.788Z",
+  "asOf": "2026-10-23",
   "since": "2016-07-25",
   "period": {
-    "start": "2025-10-23",
-    "end": "2026-10-22",
-    "total": 1458
+    "start": "2025-10-24",
+    "end": "2026-10-23",
+    "total": 1487
   },
-  "restrictedContributions": 1242,
-  "totalContributions": 2130,
+  "restrictedContributions": 1237,
+  "totalContributions": 2164,
   "streaks": {
-    "current": 13,
+    "current": 14,
     "currentStart": "2026-10-10",
-    "currentEnd": "2026-10-22",
-    "longest": 13,
+    "currentEnd": "2026-10-23",
+    "longest": 14,
     "longestStart": "2026-10-10",
-    "longestEnd": "2026-10-22"
+    "longestEnd": "2026-10-23"
   },
   "languages": {
-    "totalBytes": 9978996,
+    "totalBytes": 10727076,
     "repositoryCount": 35,
     "items": [
       {
-        "name": "JavaScript",
-        "bytes": 3428383,
-        "percentage": 34.3559913241773
+        "name": "TypeScript",
+        "bytes": 3808232,
+        "percentage": 35.501118851027066
       },
       {
-        "name": "TypeScript",
-        "bytes": 3227849,
-        "percentage": 32.34643044250143
+        "name": "JavaScript",
+        "bytes": 3443497,
+        "percentage": 32.10098446212183
       },
       {
         "name": "Dart",
         "bytes": 1072112,
-        "percentage": 10.74368603815454
+        "percentage": 9.994447694786539
       },
       {
         "name": "C#",
         "bytes": 631172,
-        "percentage": 6.325005040587249
+        "percentage": 5.883914684672692
       },
       {
         "name": "SCSS",
         "bytes": 591584,
-        "percentage": 5.928291784063246
+        "percentage": 5.514867238751735
       },
       {
         "name": "CSS",
-        "bytes": 433870,
-        "percentage": 4.347832186724998
+        "bytes": 541371,
+        "percentage": 5.046771366213869
       },
       {
         "name": "Other",
-        "bytes": 594026,
-        "percentage": 5.952763183791235
+        "bytes": 639108,
+        "percentage": 5.9578957024262715
       }
     ]
   },
   "days": [
-    {
-      "date": "2025-10-23",
-      "count": 5
-    },
     {
       "date": "2025-10-24",
       "count": 9
@@ -1519,7 +1515,11 @@
     },
     {
       "date": "2026-10-22",
-      "count": 25
+      "count": 52
+    },
+    {
+      "date": "2026-10-23",
+      "count": 7
     }
   ]
 }
