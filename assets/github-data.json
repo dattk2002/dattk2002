@@ -1,70 +1,66 @@
 {
   "version": 2,
   "username": "dattk2002",
-  "generatedAt": "2026-10-25T07:40:55.245Z",
-  "asOf": "2026-10-25",
+  "generatedAt": "2026-10-26T07:55:49.305Z",
+  "asOf": "2026-10-26",
   "since": "2016-07-25",
   "period": {
-    "start": "2025-10-26",
-    "end": "2026-10-25",
-    "total": 1496
+    "start": "2025-10-27",
+    "end": "2026-10-26",
+    "total": 1514
   },
-  "restrictedContributions": 1229,
-  "totalContributions": 2194,
+  "restrictedContributions": 1239,
+  "totalContributions": 2212,
   "streaks": {
-    "current": 15,
+    "current": 17,
     "currentStart": "2026-10-10",
-    "currentEnd": "2026-10-24",
-    "longest": 15,
+    "currentEnd": "2026-10-26",
+    "longest": 17,
     "longestStart": "2026-10-10",
-    "longestEnd": "2026-10-24"
+    "longestEnd": "2026-10-26"
   },
   "languages": {
-    "totalBytes": 11037884,
+    "totalBytes": 11041529,
     "repositoryCount": 35,
     "items": [
       {
         "name": "TypeScript",
-        "bytes": 4062352,
-        "percentage": 36.803720713136684
+        "bytes": 4065997,
+        "percentage": 36.824582899705284
       },
       {
         "name": "JavaScript",
         "bytes": 3443497,
-        "percentage": 31.19707545395476
+        "percentage": 31.186776758907214
       },
       {
         "name": "Dart",
         "bytes": 1072112,
-        "percentage": 9.713021082664032
+        "percentage": 9.709814646141853
       },
       {
         "name": "C#",
         "bytes": 631172,
-        "percentage": 5.71823367594731
+        "percentage": 5.716345987951488
       },
       {
         "name": "SCSS",
         "bytes": 591584,
-        "percentage": 5.359577977083289
+        "percentage": 5.3578086875468065
       },
       {
         "name": "CSS",
         "bytes": 566245,
-        "percentage": 5.130014049794326
+        "percentage": 5.128320543287076
       },
       {
         "name": "Other",
         "bytes": 670922,
-        "percentage": 6.078357047419596
+        "percentage": 6.07635047646028
       }
     ]
   },
   "days": [
-    {
-      "date": "2025-10-26",
-      "count": 0
-    },
     {
       "date": "2025-10-27",
       "count": 1
@@ -1519,7 +1515,11 @@
     },
     {
       "date": "2026-10-25",
-      "count": 0
+      "count": 7
+    },
+    {
+      "date": "2026-10-26",
+      "count": 11
     }
   ]
 }
