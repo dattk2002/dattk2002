@@ -46,23 +46,23 @@ My range spans TypeScript, Python, C#, Dart, and SQL; React, Next.js, Flutter, F
 
 <!-- PROFILE-STATS:START -->
 <details>
-<summary>Activity in numbers · updated 2026-10-26</summary>
+<summary>Activity in numbers · updated 2026-10-27</summary>
 
 | Metric | Value | Scope |
 | --- | ---: | --- |
-| All-time contributions | 2,212 | Since 2016-07-25 |
-| Contributions | 1,514 | 2025-10-27 to 2026-10-26 |
+| All-time contributions | 2,222 | Since 2016-07-25 |
+| Contributions | 1,523 | 2025-10-28 to 2026-10-27 |
 | Current streak | 17 days | Oct 10 – Oct 26, 2026 |
 | Longest streak | 17 days | Oct 10 – Oct 26, 2026 |
-| Active days | 185 | Days with at least one contribution in the past 12 months |
-| Contributions in the last 30 days | 573 | 2026-09-27 to 2026-10-26 |
+| Active days | 184 | Days with at least one contribution in the past 12 months |
+| Contributions in the last 30 days | 583 | 2026-09-28 to 2026-10-27 |
 | Most contributions in a day | 81 | 2026-10-12; past 12 months |
 
 **Languages by public code volume:** TypeScript 36.8% · JavaScript 31.2% · Dart 9.7% · C# 5.7% · SCSS 5.4% · CSS 5.1% · Other 6.1%.
 
 Language shares measure code bytes across 35 original public repositories, including archives. Forks and this generated profile repository are excluded. These are code proportions, not proficiency scores.
 
-These statistics use GitHub's contribution calendar, including private counts when shared. The owner primarily works in private repositories; 1,239 contributions in this period have restricted details. Private repository names and content remain private.
+These statistics use GitHub's contribution calendar, including private counts when shared. The owner primarily works in private repositories; 1,242 contributions in this period have restricted details. Private repository names and content remain private.
 
 Streaks use GitHub's daily calendar buckets and UTC+7 to determine today. A day still in progress does not break yesterday's streak. [Data sources and update method](./docs/profile-cards.md).
 
