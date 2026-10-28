@@ -5,35 +5,44 @@ export const profile = {
 };
 
 // Verified against https://www.dattk.dev/api/cv on 2026-10-16.
+// Extended from OathFront and HuntingAlice source on 2026-10-28.
 // A single curated list, independent of public repository byte shares.
 export const technology = [
   ['TypeScript', 'typescript'], ['JavaScript', 'javascript'], ['Python', 'python'],
   ['C#', null], ['Dart', 'dart'], ['PHP', 'php'], ['SQL', null],
   ['React', 'react'], ['Next.js', 'nextdotjs'], ['Vite', 'vite'],
   ['Tailwind CSS', 'tailwindcss'], ['shadcn/ui', 'shadcnui'], ['Ant Design', 'antdesign'],
-  ['Radix UI', 'radixui'], ['GSAP', 'gsap'], ['Flutter', 'flutter'],
+  ['Radix UI', 'radixui'], ['GSAP', 'gsap'], ['Three.js', 'threedotjs'],
+  ['PixiJS', null], ['Flutter', 'flutter'],
   ['React Native', 'react'], ['Expo', 'expo'], ['FastAPI', 'fastapi'],
-  ['NestJS', 'nestjs'], ['ASP.NET Core', 'dotnet'], ['Laravel', 'laravel'],
+  ['NestJS', 'nestjs'], ['Fastify', 'fastify'], ['ASP.NET Core', 'dotnet'], ['Laravel', 'laravel'],
   ['Strapi', 'strapi'], ['SignalR', null], ['PostgreSQL', 'postgresql'],
   ['MongoDB', 'mongodb'], ['Redis', 'redis'], ['SQLAlchemy', 'sqlalchemy'],
   ['Drizzle ORM', 'drizzle'], ['TypeORM', 'typeorm'], ['EF Core', null],
   ['Firebase', 'firebase'], ['Gemini Grounded Search', 'googlegemini'], ['Exa', null],
-  ['Tavily', null], ['Langfuse', null], ['Docker', 'docker'],
+  ['Tavily', null], ['Langfuse', null], ['OpenTelemetry', 'opentelemetry'],
+  ['Inngest', null], ['Docker', 'docker'],
   ['GitHub Actions', 'githubactions'], ['Render', 'render'], ['Neon', null],
   ['Vercel', 'vercel'], ['Cloudinary', 'cloudinary'], ['FFmpeg', 'ffmpeg'],
-  ['Resend', 'resend'], ['Upstash', 'upstash'], ['Pytest', 'pytest'],
+  ['Resend', 'resend'], ['Upstash', 'upstash'], ['Zod', 'zod'], ['Pytest', 'pytest'],
   ['Vitest', 'vitest'], ['Playwright', null],
 ];
 
 // Short usage captions from the CV and portfolio; omit obvious language labels.
 export const technologyNotes = {
   GSAP: 'UI motion',
+  'Three.js': '3D game rendering',
+  PixiJS: '2D game rendering',
+  Fastify: 'API server',
+  Inngest: 'Durable workflows',
+  Zod: 'Schema validation',
+  OpenTelemetry: 'Distributed tracing',
   Expo: 'Mobile + push',
   Strapi: 'Headless CMS',
   SignalR: 'Real-time chat',
   Redis: 'Cache + limits',
   SQLAlchemy: 'Python ORM',
-  'Drizzle ORM': 'Publishing ORM',
+  'Drizzle ORM': 'TypeScript ORM',
   TypeORM: 'NestJS ORM',
   'EF Core': '.NET ORM',
   Firebase: 'Push messaging',
@@ -45,7 +54,7 @@ export const technologyNotes = {
   'GitHub Actions': 'CI checks',
   Render: 'App hosting',
   Neon: 'Postgres + Auth',
-  Vercel: 'Blob uploads',
+  Vercel: 'Hosting + storage',
   Cloudinary: 'Media delivery',
   FFmpeg: 'Video processing',
   Resend: 'Contact emails',
