@@ -1,8 +1,8 @@
 import { readFileSync } from 'node:fs';
-import { technology } from './profile.config.mjs';
+import { technology, technologyNotes } from './profile.config.mjs';
 import { shiftDay, summarizeActivity } from './stats.mjs';
 
-const { icons } = JSON.parse(readFileSync(new URL('../assets/tech-icons.json', import.meta.url), 'utf8'));
+const iconCatalog = JSON.parse(readFileSync(new URL('../assets/how-i-ship-icons.json', import.meta.url), 'utf8'));
 const c = { bg: '#090B0C', surface: '#101416', text: '#F1EFE7', muted: '#A7ADB0', lime: '#C7F36B', steel: '#7EA2B8', border: '#2A3135' };
 const languageColors = [c.lime, c.steel, '#E0D9B9', '#9FD5BD', '#B4ACD3', '#D0AC8D', '#899399'];
 const heatColors = ['#182023', '#334A2C', '#5A7C3C', '#8EB750', c.lime];
@@ -161,41 +161,45 @@ function activity(snapshot, size) {
   return root(w, h, 'GitHub contributions and streaks', `${number(snapshot.totalContributions)} contributions since ${snapshot.since}. Current streak: ${s.current} days. Longest streak: ${s.longest} days. ${number(snapshot.period.total)} contributions in the past twelve months. Today uses UTC+7; daily buckets are supplied by GitHub.`, body);
 }
 
-function icon(name, slug, x, y) {
-  if (slug && icons[slug]) return `<g transform="translate(${x} ${y}) scale(0.83)"><path d="${icons[slug]}" fill="${c.text}"/></g>`;
-  const initials = { Exa: 'ex', Tavily: 'tv', Langfuse: 'lf', Neon: 'ne', Playwright: 'pw' };
-  return `<rect x="${x}" y="${y}" width="20" height="20" rx="4" fill="none" stroke="${c.steel}"/>${text(x + 10, y + 14, initials[name] ?? name.slice(0, 2), 11, c.text, 'class="mono" text-anchor="middle"')}`;
+function icon(name, x, y) {
+  const artwork = iconCatalog.icons[name];
+  if (!artwork) throw new Error(`Missing verified icon for ${name}`);
+  const svg = artwork.svg.replace('<svg ', `<svg x="4" y="4" width="20" height="20" preserveAspectRatio="xMidYMid meet" `);
+  return `<g transform="translate(${x} ${y - 4})" aria-hidden="true">${svg}</g>`;
 }
 
 function stack(size) {
   const wide = size === 'wide';
-  const mobile = size === 'mobile' || wide;
+  const mobile = size === 'mobile';
   const tablet = size === 'tablet';
-  const w = mobile ? (wide ? 480 : 320) : tablet ? 736 : 960;
-  const h = mobile ? 1148 : tablet ? 896 : 666;
+  const compact = mobile || wide;
+  const w = mobile ? 320 : wide ? 480 : tablet ? 736 : 960;
   const pad = wide ? 28 : mobile ? 20 : 32;
+  const columns = mobile ? 2 : wide ? 3 : tablet ? 4 : 6;
+  const columnWidth = (w - pad * 2) / columns;
+  const rowHeight = compact ? 42 : 48;
+  const rows = Math.ceil(technology.length / columns);
+  const h = 158 + rows * rowHeight + 38;
   let body = panel(0, 0, w, h);
   body += label(pad, 36, 'THE TOOLS BEHIND THE WORK', c.lime);
-  body += text(pad, 80, mobile ? 'Interface to infrastructure.' : 'From interface to infrastructure.', mobile ? 24 : 36, c.text, 'font-weight="700" letter-spacing="-0.9"');
-  body += text(pad, 108, '24 technologies. One connected practice.', mobile ? 15 : 17, c.muted);
-  const columns = mobile ? 1 : tablet ? 2 : 3;
-  const columnWidth = (w - pad * 2) / columns;
-  const rowHeight = mobile ? 164 : 230;
-  technology.forEach((group, i) => {
+  body += text(pad, 80, 'One connected stack.', compact ? 26 : 36, c.text, 'font-weight="700" letter-spacing="-0.9"');
+  body += text(pad, 108, `${technology.length} technologies I build with.`, compact ? 15 : 17, c.muted);
+  body += line(pad, 132, w - pad, 132);
+  technology.forEach(([name], i) => {
     const x = pad + (i % columns) * columnWidth;
-    const y = 156 + Math.floor(i / columns) * rowHeight;
-    body += line(x, y - 13, x + columnWidth - (mobile ? 0 : 24), y - 13);
-    body += label(x, y + 13, group.label, c.lime);
-    if (!mobile) body += text(x, y + 38, group.description, 14, c.muted);
-    group.tools.forEach(([name, slug], j) => {
-      const tx = x + (mobile ? (j % 2) * columnWidth / 2 : 0);
-      const ty = y + (mobile ? 35 + Math.floor(j / 2) * 35 : 55 + j * 26);
-      body += icon(name, slug, tx, ty);
-      body += text(tx + 30, ty + 16, name, 16);
-    });
+    const y = 158 + Math.floor(i / columns) * rowHeight;
+    body += icon(name, x, y);
+    const note = technologyNotes[name];
+    if (note) {
+      const displayName = name === 'Gemini Grounded Search' ? 'Gemini ' : name;
+      const accessibleLabel = name === 'Gemini Grounded Search' ? name : `${name}: ${note}`;
+      body += `<text x="${x + 36}" y="${y + 8}" font-size="${compact ? 14 : tablet ? 16 : 15}" fill="${c.text}" aria-label="${escape(accessibleLabel)}"><tspan>${escape(displayName)}</tspan><tspan x="${x + 36}" dy="17" font-size="${compact ? 12 : 13}" fill="${c.muted}">${escape(note)}</tspan></text>`;
+    } else body += text(x + 36, y + 16, name, compact ? 14 : tablet ? 16 : 15);
   });
-  body += text(pad, h - 27, mobile ? 'Tools from shipped projects.' : 'Selected tools from shipped projects · web, mobile, APIs, data, AI and production delivery.', 15, c.muted);
-  return root(w, h, 'Tran Kim Dat’s technology stack', technology.map(group => `${group.label}: ${group.tools.map(([name]) => name).join(', ')}`).join('. '), body);
+  body += text(pad, h - 27, 'Used across shipped projects.', compact ? 14 : 15, c.muted);
+  const attribution = { sources: Object.fromEntries(technology.map(([name]) => [name, iconCatalog.icons[name].source])), notes: iconCatalog.notes, presentation: iconCatalog.presentation, notices: iconCatalog.notices };
+  const description = technology.map(([name]) => technologyNotes[name] && name !== 'Gemini Grounded Search' ? `${name}: ${technologyNotes[name]}` : name).join('; ') + '.';
+  return root(w, h, 'Tran Kim Dat’s technology stack', description, `<metadata>${escape(JSON.stringify(attribution))}</metadata>${body}`);
 }
 
 export function renderCards(snapshot) {
