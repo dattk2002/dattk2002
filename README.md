@@ -81,6 +81,20 @@ I own most of the architecture and end-to-end delivery: a bilingual Next.js inte
 
 [View the product](https://bravodemy.com)
 
+### [OathFront](https://oathfront.vercel.app) — tactical PvE card battles
+
+An online card game with 20 playable heroes, 72 cards, deck building, tutorials, and weekly events. Players build around distinct hero powers and card synergies, then face deterministic bots in turn-based battles.
+
+Built as a TypeScript monorepo with Next.js, a server-authoritative Fastify API, PostgreSQL persistence, and shared packages for game rules, bots, and versioned content. PixiJS and GSAP bring the board to life while semantic controls support keyboard access and reduced motion.
+
+[Play OathFront](https://oathfront.vercel.app) · [Source code](https://github.com/dattk2002/oath-front-tcg)
+
+### HuntingAlice — AutoGTM for B2B Sales
+
+An AutoGTM platform for B2B sales that turns a seller's website or product brief into a go-to-market workflow: company research, competitor analysis, targeted campaign planning, prospect discovery, and lead enrichment. It evaluates prospective companies with cited evidence and identifies relevant decision-makers, helping sales teams build a contact-ready pipeline.
+
+Built with Next.js, NestJS on Fastify, PostgreSQL, Drizzle, and Inngest workflows. The system combines research providers, shared schema validation, real-time progress updates, and provider cost tracking across company research, prospect discovery, and lead enrichment.
+
 ## Selected systems
 
 ### [TapMood](https://github.com/dattk2002/tap-mood-ui)
