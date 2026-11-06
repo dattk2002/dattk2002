@@ -46,23 +46,23 @@ My range spans TypeScript, Python, C#, Dart, and SQL; React, Next.js, Flutter, F
 
 <!-- PROFILE-STATS:START -->
 <details>
-<summary>Activity in numbers · updated 2026-11-05</summary>
+<summary>Activity in numbers · updated 2026-11-06</summary>
 
 | Metric | Value | Scope |
 | --- | ---: | --- |
-| All-time contributions | 2,593 | Since 2016-07-25 |
-| Contributions | 1,875 | 2025-11-06 to 2026-11-05 |
-| Current streak | 27 days | Oct 10 – Nov 5, 2026 |
-| Longest streak | 27 days | Oct 10 – Nov 5, 2026 |
+| All-time contributions | 2,629 | Since 2016-07-25 |
+| Contributions | 1,906 | 2025-11-07 to 2026-11-06 |
+| Current streak | 28 days | Oct 10 – Nov 6, 2026 |
+| Longest streak | 28 days | Oct 10 – Nov 6, 2026 |
 | Active days | 188 | Days with at least one contribution in the past 12 months |
-| Contributions in the last 30 days | 855 | 2026-10-07 to 2026-11-05 |
+| Contributions in the last 30 days | 883 | 2026-10-08 to 2026-11-06 |
 | Most contributions in a day | 81 | 2026-10-12; past 12 months |
 
-**Languages by public code volume:** TypeScript 39.2% · JavaScript 29.3% · Dart 9.1% · C# 5.4% · SCSS 5.0% · CSS 4.8% · Other 7.2%.
+**Languages by public code volume:** TypeScript 39.8% · JavaScript 28.9% · Dart 9.0% · C# 5.3% · SCSS 5.0% · CSS 4.8% · Other 7.3%.
 
 Language shares measure code bytes across 36 original public repositories, including archives. Forks and this generated profile repository are excluded. These are code proportions, not proficiency scores.
 
-These statistics use GitHub's contribution calendar, including private counts when shared. The owner primarily works in private repositories; 1,444 contributions in this period have restricted details. Private repository names and content remain private.
+These statistics use GitHub's contribution calendar, including private counts when shared. The owner primarily works in private repositories; 1,453 contributions in this period have restricted details. Private repository names and content remain private.
 
 Streaks use GitHub's daily calendar buckets and UTC+7 to determine today. A day still in progress does not break yesterday's streak. [Data sources and update method](./docs/profile-cards.md).
 
