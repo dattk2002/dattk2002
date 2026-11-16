@@ -46,19 +46,19 @@ My range spans TypeScript, Python, C#, Dart, and SQL; React, Next.js, Flutter, F
 
 <!-- PROFILE-STATS:START -->
 <details>
-<summary>Activity in numbers · updated 2026-11-15</summary>
+<summary>Activity in numbers · updated 2026-11-16</summary>
 
 | Metric | Value | Scope |
 | --- | ---: | --- |
-| All-time contributions | 2,877 | Since 2016-07-25 |
-| Contributions | 2,135 | 2025-11-16 to 2026-11-15 |
-| Current streak | 37 days | Oct 10 – Nov 15, 2026 |
-| Longest streak | 37 days | Oct 10 – Nov 15, 2026 |
-| Active days | 194 | Days with at least one contribution in the past 12 months |
-| Contributions in the last 30 days | 898 | 2026-10-17 to 2026-11-15 |
+| All-time contributions | 2,888 | Since 2016-07-25 |
+| Contributions | 2,146 | 2025-11-17 to 2026-11-16 |
+| Current streak | 38 days | Oct 10 – Nov 16, 2026 |
+| Longest streak | 38 days | Oct 10 – Nov 16, 2026 |
+| Active days | 195 | Days with at least one contribution in the past 12 months |
+| Contributions in the last 30 days | 902 | 2026-10-18 to 2026-11-16 |
 | Most contributions in a day | 81 | 2026-10-12; past 12 months |
 
-**Languages by public code volume:** TypeScript 43.3% · JavaScript 27.0% · Dart 8.4% · C# 4.9% · SCSS 4.6% · CSS 4.4% · Other 7.5%.
+**Languages by public code volume:** TypeScript 43.9% · JavaScript 26.7% · Dart 8.3% · C# 4.9% · SCSS 4.6% · CSS 4.4% · Other 7.4%.
 
 Language shares measure code bytes across 36 original public repositories, including archives. Forks and this generated profile repository are excluded. These are code proportions, not proficiency scores.
 
