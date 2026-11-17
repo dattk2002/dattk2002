@@ -46,21 +46,21 @@ My range spans TypeScript, Python, C#, Dart, and SQL; React, Next.js, Flutter, F
 
 <!-- PROFILE-STATS:START -->
 <details>
-<summary>Activity in numbers · updated 2026-11-16</summary>
+<summary>Activity in numbers · updated 2026-11-17</summary>
 
 | Metric | Value | Scope |
 | --- | ---: | --- |
-| All-time contributions | 2,888 | Since 2016-07-25 |
-| Contributions | 2,146 | 2025-11-17 to 2026-11-16 |
-| Current streak | 38 days | Oct 10 – Nov 16, 2026 |
-| Longest streak | 38 days | Oct 10 – Nov 16, 2026 |
-| Active days | 195 | Days with at least one contribution in the past 12 months |
-| Contributions in the last 30 days | 902 | 2026-10-18 to 2026-11-16 |
+| All-time contributions | 2,915 | Since 2016-07-25 |
+| Contributions | 2,173 | 2025-11-18 to 2026-11-17 |
+| Current streak | 39 days | Oct 10 – Nov 17, 2026 |
+| Longest streak | 39 days | Oct 10 – Nov 17, 2026 |
+| Active days | 196 | Days with at least one contribution in the past 12 months |
+| Contributions in the last 30 days | 901 | 2026-10-19 to 2026-11-17 |
 | Most contributions in a day | 81 | 2026-10-12; past 12 months |
 
-**Languages by public code volume:** TypeScript 43.9% · JavaScript 26.7% · Dart 8.3% · C# 4.9% · SCSS 4.6% · CSS 4.4% · Other 7.4%.
+**Languages by public code volume:** TypeScript 45.0% · JavaScript 25.9% · Dart 8.0% · C# 4.7% · CSS 4.6% · SCSS 4.4% · Other 7.4%.
 
-Language shares measure code bytes across 36 original public repositories, including archives. Forks and this generated profile repository are excluded. These are code proportions, not proficiency scores.
+Language shares measure code bytes across 37 original public repositories, including archives. Forks and this generated profile repository are excluded. These are code proportions, not proficiency scores.
 
 These statistics use GitHub's contribution calendar, including private counts when shared. The owner primarily works in private repositories; 1,520 contributions in this period have restricted details. Private repository names and content remain private.
 
