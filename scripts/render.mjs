@@ -120,7 +120,7 @@ function activity(snapshot, size) {
   const s = snapshot.streaks;
   let body = panel(0, 0, w, h);
   body += label(pad, 36, 'CONTRIBUTION ACTIVITY', c.lime);
-  body += text(pad, 80, 'Showing up. Shipping.', mobile ? 26 : 34, c.text, 'font-weight="700" letter-spacing="-1"');
+  body += text(pad, 80, 'Contribution history', mobile ? 26 : 34, c.text, 'font-weight="700" letter-spacing="-1"');
   if (!mobile) body += text(w - pad, 35, `UPDATED ${snapshot.asOf}`, 13, c.muted, 'class="mono" text-anchor="end"');
   body += text(pad, 153, number(snapshot.totalContributions), mobile ? 64 : 68, c.text, 'font-weight="700" letter-spacing="-3"');
   body += text(pad, 193, 'Total contributions', 16, c.muted);
@@ -181,9 +181,9 @@ function stack(size) {
   const rows = Math.ceil(technology.length / columns);
   const h = 158 + rows * rowHeight + 38;
   let body = panel(0, 0, w, h);
-  body += label(pad, 36, 'THE TOOLS BEHIND THE WORK', c.lime);
-  body += text(pad, 80, 'One connected stack.', compact ? 26 : 36, c.text, 'font-weight="700" letter-spacing="-0.9"');
-  body += text(pad, 108, `${technology.length} technologies I build with.`, compact ? 15 : 17, c.muted);
+  body += label(pad, 36, 'DEVELOPMENT TOOLKIT', c.lime);
+  body += text(pad, 80, 'Languages & tools', compact ? 26 : 36, c.text, 'font-weight="700" letter-spacing="-0.9"');
+  body += text(pad, 108, 'Used across different projects.', compact ? 15 : 17, c.muted);
   body += line(pad, 132, w - pad, 132);
   technology.forEach(([name], i) => {
     const x = pad + (i % columns) * columnWidth;
@@ -196,7 +196,7 @@ function stack(size) {
       body += `<text x="${x + 36}" y="${y + 8}" font-size="${compact ? 14 : tablet ? 16 : 15}" fill="${c.text}" aria-label="${escape(accessibleLabel)}"><tspan>${escape(displayName)}</tspan><tspan x="${x + 36}" dy="17" font-size="${compact ? 12 : 13}" fill="${c.muted}">${escape(note)}</tspan></text>`;
     } else body += text(x + 36, y + 16, name, compact ? 14 : tablet ? 16 : 15);
   });
-  body += text(pad, h - 27, 'Used across shipped projects.', compact ? 14 : 15, c.muted);
+  body += text(pad, h - 27, 'Web · Mobile · Backend · AI', compact ? 14 : 15, c.muted);
   const attribution = { sources: Object.fromEntries(technology.map(([name]) => [name, iconCatalog.icons[name].source])), notes: iconCatalog.notes, presentation: iconCatalog.presentation, notices: iconCatalog.notices };
   const description = technology.map(([name]) => technologyNotes[name] && name !== 'Gemini Grounded Search' ? `${name}: ${technologyNotes[name]}` : name).join('; ') + '.';
   return root(w, h, 'Tran Kim Dat’s technology stack', description, `<metadata>${escape(JSON.stringify(attribution))}</metadata>${body}`);
