@@ -6,19 +6,58 @@
   </picture>
 </p>
 
-<p align="center">
-  <a href="https://www.dattk.dev"><strong>Portfolio</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.dattk.dev/api/cv"><strong>CV</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/kimdat0705"><strong>LinkedIn</strong></a>
-  &nbsp;·&nbsp;
-  <a href="mailto:kimdat0705@gmail.com"><strong>Email</strong></a>
+I'm a full-stack engineer with nearly 3 years of experience building web and cross-platform mobile applications. My work spans frontend interfaces, backend APIs, authentication, data models, AI integrations, and deployment.
+
+## Building now
+
+### Bravodemy | [main.bd-internal.dev](https://main.bd-internal.dev)
+
+An AI learning platform that turns a learning goal into a researched syllabus, short lessons, practice, and progress tracking. Currently in development.
+
+`goal` → `grounded research` → `learning path` → `practice` → `review`
+
+I built the bilingual Next.js frontend and backend foundations with FastAPI, SQLAlchemy, and PostgreSQL. My work includes authentication, Polar billing, Exa/Gemini/Tavily research integrations, Redis, automated checks, and Docker deployments on Render and Neon. Another developer is responsible for core lesson generation.
+
+### HuntingAlice | [main.ha-internal.dev](https://main.ha-internal.dev)
+
+A B2B prospecting platform for company research, competitor analysis, campaign planning, and lead discovery. Research results include source evidence and relevant decision-makers for sales teams to review.
+
+I build frontend and backend workflows with Next.js, NestJS/Fastify, PostgreSQL, Drizzle, and Inngest. Shared contracts and WebSocket updates connect the research interfaces to background workflows and saved campaign data.
+
+### OathFront | [oathfront.vercel.app](https://oathfront.vercel.app)
+
+A tactical PvE card game with hero abilities, deck building, tutorials, and deterministic bots. Players combine hero powers and card effects in turn-based battles.
+
+I built the TypeScript game rules and bot engine, Next.js client, and server-authoritative Fastify API with PostgreSQL persistence. The interface supports direct card interaction, keyboard controls, and reduced motion.
+
+## Selected systems
+
+### TapMood
+
+A real-time social check-in product built across Flutter and ASP.NET Core. The system includes SignalR, Firebase notifications, Gemini-assisted features, and resumable media uploads with background video processing.
+
+### HabiStride | [habi-stride-ui.onrender.com](https://habi-stride-ui.onrender.com)
+
+A gamified habit tracker built with Next.js and NestJS, including Google OAuth, HttpOnly authentication, streak logic, leaderboards, and daily timezone-aware snapshots.
+
+### Portfolio | [dattk.dev](https://dattk.dev)
+
+A bilingual Next.js portfolio with project case studies, a project explorer, GitHub activity, a contact form, and a publishing system backed by Neon PostgreSQL.
+
+## Tech stack
+
+Languages, frameworks, and services used across my web, mobile, and AI projects.
+
+<p>
+  <picture>
+    <source media="(max-width: 479px), (min-width: 768px) and (max-width: 879px)" srcset="./assets/how-i-ship-mobile.svg" />
+    <source media="(max-width: 1100px)" srcset="./assets/how-i-ship-wide.svg" />
+    <source media="(max-width: 1439px)" srcset="./assets/how-i-ship-tablet.svg" />
+    <img src="./assets/how-i-ship.svg" width="100%" alt="Tech stack — TypeScript, JavaScript, Python, C#, Dart, PHP, SQL, React, Next.js, Vite, Tailwind CSS, shadcn/ui, Ant Design, Radix UI, GSAP (UI motion), Three.js (3D game rendering), PixiJS (2D game rendering), Flutter, React Native, Expo (Mobile + push), FastAPI, NestJS, Fastify (API server), ASP.NET Core, Laravel, Strapi (Headless CMS), SignalR (Real-time chat), PostgreSQL, MongoDB, Redis (Cache + limits), SQLAlchemy (Python ORM), Drizzle ORM (TypeScript ORM), TypeORM (NestJS ORM), EF Core (.NET ORM), Firebase (Push messaging), Gemini Grounded Search (API key from Google AI Studio), Exa (Web research), Tavily (Source search), Langfuse (AI tracing), OpenTelemetry (Distributed tracing), Inngest (Durable workflows), Docker (App containers), GitHub Actions (CI checks), Render (App hosting), Neon (Postgres + Auth), Vercel (Hosting + storage), Cloudinary (Media delivery), FFmpeg (Video processing), Resend (Contact emails), Upstash (Rate limiting), Zod (Schema validation), Pytest (API tests), Vitest (Frontend tests), Playwright (Browser tests)." />
+  </picture>
 </p>
 
-I am a product-focused full-stack engineer in Vietnam with 3+ years of experience across production web and cross-platform mobile products. I work where the layers meet: turning a product requirement into an interface, the systems behind it, and a release that can be operated with confidence.
-
-My range spans TypeScript, Python, C#, Dart, and SQL; React, Next.js, Flutter, FastAPI, NestJS, and ASP.NET Core; PostgreSQL, MongoDB, Redis, real-time systems, automated testing, containers, CI, and cloud delivery.
+**Gemini Grounded Search:** grounding with Google Search through the Gemini API, using an API key created in [Google AI Studio](https://aistudio.google.com/apikey).
 
 ## GitHub activity
 
@@ -69,68 +108,7 @@ Streaks use GitHub's daily calendar buckets and UTC+7 to determine today. A day 
 </details>
 <!-- PROFILE-STATS:END -->
 
-## Building now
-
-### [Bravodemy](https://bravodemy.com) — learning systems grounded in sources
-
-An AI microlearning platform that turns a natural-language goal into a researched syllabus, focused 5–10 minute lessons, practice, spaced review, and visible progress.
-
-`goal` → `grounded research` → `learning path` → `practice` → `review`
-
-I own most of the architecture and end-to-end delivery: a bilingual Next.js interface, 107 FastAPI endpoints, 35 SQLAlchemy models, Gemini Grounded Search, Exa, and Tavily research workflows, deterministic Python and SQL grading, Langfuse tracing, automated test suites, and production delivery on Render and Neon.
-
-[View the product](https://bravodemy.com)
-
-### [OathFront](https://oathfront.vercel.app) — tactical PvE card battles
-
-An online card game with 20 playable heroes, 72 cards, deck building, tutorials, and weekly events. Players build around distinct hero powers and card synergies, then face deterministic bots in turn-based battles.
-
-Built as a TypeScript monorepo with Next.js, a server-authoritative Fastify API, PostgreSQL persistence, and shared packages for game rules, bots, and versioned content. PixiJS and GSAP bring the board to life while semantic controls support keyboard access and reduced motion.
-
-[Play OathFront](https://oathfront.vercel.app) · [Source code](https://github.com/dattk2002/oath-front-tcg)
-
-### HuntingAlice — AutoGTM for B2B Sales
-
-An AutoGTM platform for B2B sales that turns a seller's website or product brief into a go-to-market workflow: company research, competitor analysis, targeted campaign planning, prospect discovery, and lead enrichment. It evaluates prospective companies with cited evidence and identifies relevant decision-makers, helping sales teams build a contact-ready pipeline.
-
-Built with Next.js, NestJS on Fastify, PostgreSQL, Drizzle, and Inngest workflows. The system combines research providers, shared schema validation, real-time progress updates, and provider cost tracking across company research, prospect discovery, and lead enrichment.
-
-## Selected systems
-
-### [TapMood](https://github.com/dattk2002/tap-mood-ui)
-
-A real-time social check-in product built across Flutter and ASP.NET Core. The system includes SignalR, Firebase notifications, Gemini-assisted features, and resumable media uploads with background video processing.
-
-[Interface source](https://github.com/dattk2002/tap-mood-ui) · [API source](https://github.com/dattk2002/tap-mood-api)
-
-### [HabiStride](https://habi-stride-ui.onrender.com)
-
-A gamified habit tracker built with Next.js and NestJS, including Google OAuth, HttpOnly authentication, streak logic, leaderboards, and daily timezone-aware snapshots.
-
-[Live product](https://habi-stride-ui.onrender.com) · [Interface source](https://github.com/dattk2002/habi-stride-ui) · [API source](https://github.com/dattk2002/habi-stride-api)
-
-### [dattk.dev](https://www.dattk.dev)
-
-My portfolio is also a working product: ten evidence-led case studies, live GitHub activity, an accessible gesture-based project explorer, a two-way contact workflow, and a localized publishing system backed by Neon Postgres.
-
-[Visit the portfolio](https://www.dattk.dev) · [Explore the source](https://github.com/dattk2002/dattk2002-portfolio-nextjs)
-
-## How I ship
-
-<p>
-  <picture>
-    <source media="(max-width: 479px), (min-width: 768px) and (max-width: 879px)" srcset="./assets/how-i-ship-mobile.svg" />
-    <source media="(max-width: 1100px)" srcset="./assets/how-i-ship-wide.svg" />
-    <source media="(max-width: 1439px)" srcset="./assets/how-i-ship-tablet.svg" />
-    <img src="./assets/how-i-ship.svg" width="100%" alt="Tech stack — TypeScript, JavaScript, Python, C#, Dart, PHP, SQL, React, Next.js, Vite, Tailwind CSS, shadcn/ui, Ant Design, Radix UI, GSAP (UI motion), Three.js (3D game rendering), PixiJS (2D game rendering), Flutter, React Native, Expo (Mobile + push), FastAPI, NestJS, Fastify (API server), ASP.NET Core, Laravel, Strapi (Headless CMS), SignalR (Real-time chat), PostgreSQL, MongoDB, Redis (Cache + limits), SQLAlchemy (Python ORM), Drizzle ORM (TypeScript ORM), TypeORM (NestJS ORM), EF Core (.NET ORM), Firebase (Push messaging), Gemini Grounded Search (API key from Google AI Studio), Exa (Web research), Tavily (Source search), Langfuse (AI tracing), OpenTelemetry (Distributed tracing), Inngest (Durable workflows), Docker (App containers), GitHub Actions (CI checks), Render (App hosting), Neon (Postgres + Auth), Vercel (Hosting + storage), Cloudinary (Media delivery), FFmpeg (Video processing), Resend (Contact emails), Upstash (Rate limiting), Zod (Schema validation), Pytest (API tests), Vitest (Frontend tests), Playwright (Browser tests)." />
-  </picture>
-</p>
-
-**Gemini Grounded Search:** grounding with Google Search through the Gemini API, using an API key created in [Google AI Studio](https://aistudio.google.com/apikey).
-
-I care about clear ownership, maintainable architecture, and evidence that a feature works outside the happy path.
-
-## Beyond the code
+## Background
 
 - Software Engineering graduate from FPT University.
 - EF SET English Certificate: C2 Proficient, 78/100.
@@ -139,6 +117,6 @@ I care about clear ownership, maintainable architecture, and evidence that a fea
 
 ## Start a conversation
 
-For work, collaboration, or a thoughtful exchange about building products:
+For full-stack roles and product collaborations:
 
-**[kimdat0705@gmail.com](mailto:kimdat0705@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/kimdat0705)** · **[dattk.dev](https://www.dattk.dev)**
+**[Portfolio](https://dattk.dev)** · **[CV](https://dattk.dev/api/cv)** · **[LinkedIn](https://www.linkedin.com/in/kimdat0705)** · **[Email](mailto:kimdat0705@gmail.com)**
