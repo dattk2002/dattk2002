@@ -85,23 +85,23 @@ Languages, frameworks, and services used across my web, mobile, and AI projects.
 
 <!-- PROFILE-STATS:START -->
 <details>
-<summary>Activity in numbers · updated 2026-11-19</summary>
+<summary>Activity in numbers · updated 2026-11-20</summary>
 
 | Metric | Value | Scope |
 | --- | ---: | --- |
-| All-time contributions | 2,952 | Since 2016-07-25 |
-| Contributions | 2,203 | 2025-11-20 to 2026-11-19 |
-| Current streak | 41 days | Oct 10 – Nov 19, 2026 |
-| Longest streak | 41 days | Oct 10 – Nov 19, 2026 |
+| All-time contributions | 2,965 | Since 2016-07-25 |
+| Contributions | 2,205 | 2025-11-21 to 2026-11-20 |
+| Current streak | 42 days | Oct 10 – Nov 20, 2026 |
+| Longest streak | 42 days | Oct 10 – Nov 20, 2026 |
 | Active days | 196 | Days with at least one contribution in the past 12 months |
-| Contributions in the last 30 days | 914 | 2026-10-21 to 2026-11-19 |
+| Contributions in the last 30 days | 858 | 2026-10-22 to 2026-11-20 |
 | Most contributions in a day | 81 | 2026-10-12; past 12 months |
 
 **Languages by public code volume:** TypeScript 47.1% · JavaScript 25.0% · Dart 7.6% · C# 4.5% · CSS 4.4% · SCSS 4.2% · Other 7.2%.
 
 Language shares measure code bytes across 37 original public repositories, including archives. Forks and this generated profile repository are excluded. These are code proportions, not proficiency scores.
 
-These statistics use GitHub's contribution calendar, including private counts when shared. The owner primarily works in private repositories; 1,513 contributions in this period have restricted details. Private repository names and content remain private.
+These statistics use GitHub's contribution calendar, including private counts when shared. The owner primarily works in private repositories; 1,502 contributions in this period have restricted details. Private repository names and content remain private.
 
 Streaks use GitHub's daily calendar buckets and UTC+7 to determine today. A day still in progress does not break yesterday's streak. [Data sources and update method](./docs/profile-cards.md).
 
