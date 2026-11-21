@@ -1,70 +1,66 @@
 {
   "version": 2,
   "username": "dattk2002",
-  "generatedAt": "2026-11-20T10:11:50.411Z",
-  "asOf": "2026-11-20",
+  "generatedAt": "2026-11-21T09:58:08.726Z",
+  "asOf": "2026-11-21",
   "since": "2016-07-25",
   "period": {
-    "start": "2025-11-21",
-    "end": "2026-11-20",
-    "total": 2205
+    "start": "2025-11-22",
+    "end": "2026-11-21",
+    "total": 2234
   },
-  "restrictedContributions": 1502,
-  "totalContributions": 2965,
+  "restrictedContributions": 1498,
+  "totalContributions": 2998,
   "streaks": {
-    "current": 42,
+    "current": 43,
     "currentStart": "2026-10-10",
-    "currentEnd": "2026-11-20",
-    "longest": 42,
+    "currentEnd": "2026-11-21",
+    "longest": 43,
     "longestStart": "2026-10-10",
-    "longestEnd": "2026-11-20"
+    "longestEnd": "2026-11-21"
   },
   "languages": {
-    "totalBytes": 14051213,
+    "totalBytes": 14359952,
     "repositoryCount": 37,
     "items": [
       {
         "name": "TypeScript",
-        "bytes": 6615461,
-        "percentage": 47.08106695130164
+        "bytes": 6908859,
+        "percentage": 48.11199229635308
       },
       {
         "name": "JavaScript",
-        "bytes": 3509471,
-        "percentage": 24.97628496557557
+        "bytes": 3519017,
+        "percentage": 24.50577132848355
       },
       {
         "name": "Dart",
         "bytes": 1072112,
-        "percentage": 7.630031656341699
+        "percentage": 7.465985958727439
       },
       {
         "name": "C#",
         "bytes": 631172,
-        "percentage": 4.491939592688546
+        "percentage": 4.395362881435815
       },
       {
         "name": "CSS",
         "bytes": 613631,
-        "percentage": 4.367103395272707
+        "percentage": 4.2732106625426045
       },
       {
         "name": "SCSS",
         "bytes": 591584,
-        "percentage": 4.21019879209005
+        "percentage": 4.119679508678024
       },
       {
         "name": "Other",
-        "bytes": 1017782,
-        "percentage": 7.243374646729787
+        "bytes": 1023577,
+        "percentage": 7.127997363779488
       }
     ]
   },
   "days": [
-    {
-      "date": "2025-11-21",
-      "count": 4
-    },
     {
       "date": "2025-11-22",
       "count": 0
@@ -1515,11 +1511,15 @@
     },
     {
       "date": "2026-11-19",
-      "count": 22
+      "count": 26
     },
     {
       "date": "2026-11-20",
-      "count": 8
+      "count": 36
+    },
+    {
+      "date": "2026-11-21",
+      "count": 1
     }
   ]
 }
