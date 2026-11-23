@@ -85,23 +85,23 @@ Languages, frameworks, and services used across my web, mobile, and AI projects.
 
 <!-- PROFILE-STATS:START -->
 <details>
-<summary>Activity in numbers · updated 2026-11-22</summary>
+<summary>Activity in numbers · updated 2026-11-23</summary>
 
 | Metric | Value | Scope |
 | --- | ---: | --- |
-| All-time contributions | 3,001 | Since 2016-07-25 |
-| Contributions | 2,237 | 2025-11-23 to 2026-11-22 |
-| Current streak | 44 days | Oct 10 – Nov 22, 2026 |
-| Longest streak | 44 days | Oct 10 – Nov 22, 2026 |
-| Active days | 197 | Days with at least one contribution in the past 12 months |
-| Contributions in the last 30 days | 831 | 2026-10-24 to 2026-11-22 |
+| All-time contributions | 3,030 | Since 2016-07-25 |
+| Contributions | 2,266 | 2025-11-24 to 2026-11-23 |
+| Current streak | 45 days | Oct 10 – Nov 23, 2026 |
+| Longest streak | 45 days | Oct 10 – Nov 23, 2026 |
+| Active days | 198 | Days with at least one contribution in the past 12 months |
+| Contributions in the last 30 days | 834 | 2026-10-25 to 2026-11-23 |
 | Most contributions in a day | 81 | 2026-10-12; past 12 months |
 
-**Languages by public code volume:** TypeScript 48.1% · JavaScript 24.5% · Dart 7.5% · C# 4.4% · CSS 4.3% · SCSS 4.1% · Other 7.1%.
+**Languages by public code volume:** TypeScript 48.1% · JavaScript 24.5% · Dart 7.5% · C# 4.4% · CSS 4.3% · SCSS 4.1% · Other 7.2%.
 
 Language shares measure code bytes across 37 original public repositories, including archives. Forks and this generated profile repository are excluded. These are code proportions, not proficiency scores.
 
-These statistics use GitHub's contribution calendar, including private counts when shared. The owner primarily works in private repositories; 1,499 contributions in this period have restricted details. Private repository names and content remain private.
+These statistics use GitHub's contribution calendar, including private counts when shared. The owner primarily works in private repositories; 1,526 contributions in this period have restricted details. Private repository names and content remain private.
 
 Streaks use GitHub's daily calendar buckets and UTC+7 to determine today. A day still in progress does not break yesterday's streak. [Data sources and update method](./docs/profile-cards.md).
 
